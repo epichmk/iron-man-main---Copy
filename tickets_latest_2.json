@@ -1,0 +1,166 @@
+[
+  {
+    "id": 42,
+    "author": "a",
+    "text": "remove",
+    "metadata": {
+      "element": "span",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(9) > span.inline-flex.items-center > span.inline-block.h-1\\.5",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > span.inline-flex.items-center > span.inline-block.h-1\\.5",
+      "fingerprint": {
+        "tag": "span",
+        "text": "",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "",
+        "role": "",
+        "description": "span"
+      },
+      "boundingBox": {
+        "x": 849.4583129882812,
+        "y": 219.05555725097656,
+        "width": 6,
+        "height": 6
+      },
+      "nearbyText": "",
+      "cssClasses": "inline-block h-1.5 w-1.5 rounded-full bg-accent",
+      "nearbyElements": "Parent: span.inline-flex (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(212, 230, 22), background: rgb(212, 230, 22), font-size: 14px, font-weight: 600, font-family: geSS, \"geSS Fallback\", line-height: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > span.inline-flex > span.inline-block",
+      "accessibility": "aria-hidden=\"true\"",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 43,
+    "author": "a",
+    "text": "remove",
+    "metadata": {
+      "element": "span",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-0:nth-of-type(8) > span.inline-flex.items-center > span.inline-block.h-1\\.5",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(8) > span.inline-flex.items-center > span.inline-block.h-1\\.5",
+      "fingerprint": {
+        "tag": "span",
+        "text": "",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "",
+        "role": "",
+        "description": "span"
+      },
+      "boundingBox": {
+        "x": 1612.2222900390625,
+        "y": 238.94444274902344,
+        "width": 6,
+        "height": 6
+      },
+      "nearbyText": "",
+      "cssClasses": "inline-block h-1.5 w-1.5 rounded-full bg-accent",
+      "nearbyElements": "Parent: span.inline-flex (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(212, 230, 22), background: rgb(212, 230, 22), font-size: 14px, font-weight: 500, font-family: geSS, \"geSS Fallback\", line-height: 21px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > span.inline-flex > span.inline-block",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 44,
+    "author": "a",
+    "text": "make this horizontal and make it more creative and more expensive looking. ",
+    "metadata": {
+      "element": "Div (flex flex-col gap-4 text-right mt-2)",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(9) > div.flex.flex-col",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col",
+      "fingerprint": {
+        "tag": "div",
+        "text": "98%أعلى نسب نجاح لعمليات الحقن المجهري وأطفال الأنابيب في اليمن.+30عاماً من الخب...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "98%أعلى نسب نجاح لعمليات الحقن المجهري وأطفال الأنابيب في ال...",
+        "role": "",
+        "description": "div \"98%أعلى نسب نجاح لعمليات الحقن المجهري وأطفال الأنابيب في ال...\""
+      },
+      "boundingBox": {
+        "x": 469.5555725097656,
+        "y": 360.4444580078125,
+        "width": 551.8055419921875,
+        "height": 140
+      },
+      "nearbyText": "[before:] بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها | 98%أعلى نسب نجاح لعمليات الحقن المجهري وأطفال الأنابيب في اليمن.+30عاماً من الخبرة والريادة تحت إشراف الدكتورة نجاة الملس.IX3تقنيات متقدمة وأحدث حاضنات أجنة ثلاثية الغازات. | [after:] إحجز موعد الآن",
+      "cssClasses": "flex flex-col gap-4 text-right mt-2",
+      "nearbyElements": "Parent: div.absolute (4 children) | Siblings: span.inline-flex, h2.font-sans, a.mt-4",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: flex, flex-direction: column, gap: 16px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 45,
+    "author": "a",
+    "text": "RTL for the text, not the card.",
+    "metadata": {
+      "element": "Heading 2 'بعض الأحلام... لا يمكن لنا ان نعيش من غي...'",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(9) > h2.font-sans.font-semibold",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > h2.font-sans.font-semibold",
+      "fingerprint": {
+        "tag": "h2",
+        "text": "بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها",
+        "role": "",
+        "description": "h2 \"بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها\""
+      },
+      "boundingBox": {
+        "x": 48,
+        "y": 174.05555725097656,
+        "width": 973.3611450195312,
+        "height": 158.38888549804688
+      },
+      "nearbyText": "[before:] تواصلكم معنا مرحب به | بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها | [after:] 98%أعلى نسب نجاح لعمليات الحقن المجهري وأطفال الأنابيب في ال...",
+      "cssClasses": "font-sans font-semibold tracking-tighter text-foreground text-[clamp(2rem,4.5vw,4.5rem)] text-left",
+      "nearbyElements": "Parent: div.absolute (4 children) | Siblings: span.inline-flex, div.flex, a.mt-4",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 72px, font-weight: 600, font-family: geSS, \"geSS Fallback\", line-height: 79.2px, text-align: left",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > h2.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

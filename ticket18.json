@@ -1,0 +1,36 @@
+{
+  "element": "Image 'Logo'",
+  "selector": "header.fixed.inset-x-0 > div.mx-auto.flex > div.flex.items-center > a > div > img.object-contain",
+  "stableSelector": "header > div.mx-auto.flex > div.flex.items-center > a > div > img.object-contain",
+  "fingerprint": {
+    "tag": "img",
+    "text": "",
+    "role": "img",
+    "ariaLabel": "",
+    "name": "",
+    "anchor": ""
+  },
+  "sourceContext": {
+    "component": "",
+    "componentPath": [],
+    "widgetType": "",
+    "columnHeader": "",
+    "fieldLabel": "",
+    "textContent": "",
+    "role": "img",
+    "description": "img"
+  },
+  "boundingBox": {
+    "x": 1470.504638671875,
+    "y": 18.009424209594727,
+    "width": 37.212890625,
+    "height": 37.2128791809082
+  },
+  "nearbyText": "",
+  "cssClasses": "object-contain",
+  "nearbyElements": "Parent: div (1 children) | Siblings: ",
+  "computedStyles": "font-size: 16px, width: 36px, height: 36px, object-fit: contain",
+  "fullPath": "body.relative > header.fixed > div.mx-auto > div.flex > a > div > img.object-contain",
+  "accessibility": "none",
+  "url": "http://localhost:3000/"
+}

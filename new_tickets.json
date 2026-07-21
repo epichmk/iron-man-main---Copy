@@ -1,0 +1,84 @@
+[
+  {
+    "id": 10,
+    "author": "inshallah",
+    "text": "بإذن الله",
+    "meta": {
+      "element": "span 'Telemetry Link — Live'",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.left-6:nth-of-type(9) > span.font-mono.uppercase",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > span.font-mono.uppercase",
+      "fingerprint": {
+        "tag": "span",
+        "text": "Telemetry Link — Live",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "Telemetry Link — Live",
+        "role": "",
+        "description": "span \"Telemetry Link — Live\""
+      },
+      "boundingBox": {
+        "x": 40,
+        "y": 96,
+        "width": 188.1527862548828,
+        "height": 15
+      },
+      "nearbyText": "Telemetry Link — Live",
+      "cssClasses": "font-mono uppercase tracking-[0.32em] text-zinc-400",
+      "nearbyElements": "Parent: div.absolute (2 children) | Siblings: div.h-px",
+      "computedStyles": "color: lab(65.6464 1.53494 -5.42429), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 15px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > span.font-mono",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 11,
+    "author": "inshallah",
+    "text": "مركز د. نجاة الملس للمساعدة على الحمل والحقن المجهري وأطفال الأنابيب.",
+    "meta": {
+      "element": "p 'مركز د. نجاة الملس التخصصي هو مركز رائد ...'",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-0:nth-of-type(7) > p.font-sans.text-sm",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(7) > p.font-sans.text-sm",
+      "fingerprint": {
+        "tag": "p",
+        "text": "مركز د. نجاة الملس التخصصي هو مركز رائد ومتقدم في مجال الخصوبة وأمراض النساء في ...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "مركز د. نجاة الملس التخصصي هو مركز رائد ومتقدم في مجال الخصو...",
+        "role": "",
+        "description": "p \"مركز د. نجاة الملس التخصصي هو مركز رائد ومتقدم في مجال الخصو...\""
+      },
+      "boundingBox": {
+        "x": 1406.2222900390625,
+        "y": 294.4444580078125,
+        "width": 224,
+        "height": 286
+      },
+      "nearbyText": "[before:] مركز د. نجاة الملسللمساعدة على الحمل والحقن المجهري وأطفال ا... | مركز د. نجاة الملس التخصصي هو مركز رائد ومتقدم في مجال الخصوبة وأمراض النساء في صنعاء، اليمن، متخصص في التلقيح الصناعي، والحقن المجهري، والصحة الإنجابية. بقيادة الدكتورة نجاة علي الملس، أول طبيبة يمني...",
+      "cssClasses": "font-sans text-sm leading-relaxed text-zinc-400 md:text-base text-right",
+      "nearbyElements": "Parent: div.absolute (3 children) | Siblings: span.inline-flex, h1.font-sans",
+      "computedStyles": "color: lab(65.6464 1.53494 -5.42429), font-size: 16px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 26px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > p.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

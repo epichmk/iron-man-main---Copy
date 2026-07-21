@@ -1,0 +1,84 @@
+[
+  {
+    "id": 78,
+    "author": "a",
+    "text": "move the cta buttons below the stats' texts. on desktop only.",
+    "metadata": {
+      "element": "Div (flex flex-col gap-4 md:gap-6 items-cente...)",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col",
+      "fingerprint": {
+        "tag": "div",
+        "text": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقهامركز طبي مت...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...",
+        "role": "",
+        "description": "div \"تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...\""
+      },
+      "boundingBox": {
+        "x": 291.1111145019531,
+        "y": 142.1527862548828,
+        "width": 500,
+        "height": 408.1388854980469
+      },
+      "nearbyText": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقهامركز طبي متكامل بأعلى معايير الجودة لتقديم أحدث حلول المساعدةعلى الإنجاب والحقن المجهري في اليمن98%أعلى نسب نجاح باليمن+30عاماً من ...",
+      "cssClasses": "flex flex-col gap-4 md:gap-6 items-center md:items-start w-full",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: flex, flex-direction: column, gap: 24px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 79,
+    "author": "a",
+    "text": "add entry animation, and exit animation.\nto all elements",
+    "metadata": {
+      "element": "Div (flex flex-col gap-4 md:gap-6 items-cente...)",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col",
+      "fingerprint": {
+        "tag": "div",
+        "text": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقهامركز طبي مت...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...",
+        "role": "",
+        "description": "div \"تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...\""
+      },
+      "boundingBox": {
+        "x": 291.1111145019531,
+        "y": 142.1527862548828,
+        "width": 500,
+        "height": 408.1388854980469
+      },
+      "nearbyText": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقهامركز طبي متكامل بأعلى معايير الجودة لتقديم أحدث حلول المساعدةعلى الإنجاب والحقن المجهري في اليمن98%أعلى نسب نجاح باليمن+30عاماً من ...",
+      "cssClasses": "flex flex-col gap-4 md:gap-6 items-center md:items-start w-full",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: flex, flex-direction: column, gap: 24px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

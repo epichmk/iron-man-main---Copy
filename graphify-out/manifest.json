@@ -1,0 +1,547 @@
+{
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\all_recent_tickets.json": {
+    "mtime": 1780950114.7662978,
+    "ast_hash": "cd080fa574163f9630208900fc7db4e2",
+    "semantic_hash": "cd080fa574163f9630208900fc7db4e2"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\dump.py": {
+    "mtime": 1780932009.215983,
+    "ast_hash": "75edf326ced4fad71b2fb5138ec7503d",
+    "semantic_hash": "75edf326ced4fad71b2fb5138ec7503d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\eslint.config.mjs": {
+    "mtime": 1776730638.0,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\newest_tickets.json": {
+    "mtime": 1780950262.3685875,
+    "ast_hash": "6934baac42ce0fb5b1924b35ad5f59cc",
+    "semantic_hash": "6934baac42ce0fb5b1924b35ad5f59cc"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\new_reviews.json": {
+    "mtime": 1780933911.2953296,
+    "ast_hash": "273f8f4fb8ece176bbb03740601562f4",
+    "semantic_hash": "273f8f4fb8ece176bbb03740601562f4"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\new_tickets.json": {
+    "mtime": 1780934844.4504256,
+    "ast_hash": "806e2d35e5894b88f57225d8334fad68",
+    "semantic_hash": "806e2d35e5894b88f57225d8334fad68"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\next.config.ts": {
+    "mtime": 1781297470.9011486,
+    "ast_hash": "6623f9b4ca91e52889471f774c0307e1",
+    "semantic_hash": "6623f9b4ca91e52889471f774c0307e1"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\package.json": {
+    "mtime": 1781036860.6430192,
+    "ast_hash": "cf28e60d4051ca5fa247b70f8b7b4891",
+    "semantic_hash": "cf28e60d4051ca5fa247b70f8b7b4891"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\postcss.config.mjs": {
+    "mtime": 1776730638.0,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\rebuild-hud.js": {
+    "mtime": 1781035507.414693,
+    "ast_hash": "7216ea8fa39ea98e1a0fe9baafea238c",
+    "semantic_hash": "7216ea8fa39ea98e1a0fe9baafea238c"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\restore.js": {
+    "mtime": 1781035317.6203685,
+    "ast_hash": "4968475a6dbc1da6e1bc6e04f661b669",
+    "semantic_hash": "4968475a6dbc1da6e1bc6e04f661b669"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket12.json": {
+    "mtime": 1780935103.7151003,
+    "ast_hash": "702a0fef7ae87a58f4dd88f53a7bc738",
+    "semantic_hash": "702a0fef7ae87a58f4dd88f53a7bc738"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket15.json": {
+    "mtime": 1780935368.3655872,
+    "ast_hash": "94fce9722391b11e564426936b77e1d4",
+    "semantic_hash": "94fce9722391b11e564426936b77e1d4"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket16.json": {
+    "mtime": 1780935999.1644247,
+    "ast_hash": "9456fb1aeec8eaba5bf3d04d4c57be5d",
+    "semantic_hash": "9456fb1aeec8eaba5bf3d04d4c57be5d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket17.json": {
+    "mtime": 1780936185.7314248,
+    "ast_hash": "2a1ea21b6e2bf547628283181e6a6bcb",
+    "semantic_hash": "2a1ea21b6e2bf547628283181e6a6bcb"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket18.json": {
+    "mtime": 1780936636.626284,
+    "ast_hash": "2947335fb2ae5b73a5163a44f01b7afd",
+    "semantic_hash": "2947335fb2ae5b73a5163a44f01b7afd"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket19.json": {
+    "mtime": 1780936860.2074258,
+    "ast_hash": "fcec16922d59c266429031c57959d66d",
+    "semantic_hash": "fcec16922d59c266429031c57959d66d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets20_28.json": {
+    "mtime": 1780937042.3089743,
+    "ast_hash": "c93d58a04359e438b41a5e453caa9547",
+    "semantic_hash": "c93d58a04359e438b41a5e453caa9547"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_50_to_65.json": {
+    "mtime": 1780948276.6097956,
+    "ast_hash": "380013667b9ea38ec75f0a71e9f58370",
+    "semantic_hash": "380013667b9ea38ec75f0a71e9f58370"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest.json": {
+    "mtime": 1780939529.2967882,
+    "ast_hash": "914980d930af47612a4503855453280b",
+    "semantic_hash": "914980d930af47612a4503855453280b"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_2.json": {
+    "mtime": 1780939858.5836763,
+    "ast_hash": "a81f47807900926881b46433641db83d",
+    "semantic_hash": "a81f47807900926881b46433641db83d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_3.json": {
+    "mtime": 1780945435.7275083,
+    "ast_hash": "12ce2a051b1079c058a417a099c222fe",
+    "semantic_hash": "12ce2a051b1079c058a417a099c222fe"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_4.json": {
+    "mtime": 1780946090.4769945,
+    "ast_hash": "ed685aedba29fda550b141d54b7eb1b7",
+    "semantic_hash": "ed685aedba29fda550b141d54b7eb1b7"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_5.json": {
+    "mtime": 1780947259.3141327,
+    "ast_hash": "e821426c07066682b0247ccb76d446ae",
+    "semantic_hash": "e821426c07066682b0247ccb76d446ae"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_6.json": {
+    "mtime": 1780947752.8111975,
+    "ast_hash": "b5f6889048f868dc87931780ee01dbbe",
+    "semantic_hash": "b5f6889048f868dc87931780ee01dbbe"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_7.json": {
+    "mtime": 1780948700.4602988,
+    "ast_hash": "8589d36a3a9b1c7cf693e80e4e3d5c14",
+    "semantic_hash": "8589d36a3a9b1c7cf693e80e4e3d5c14"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_8.json": {
+    "mtime": 1780949065.379438,
+    "ast_hash": "3a7aecc260aec128fc7cf55232b80261",
+    "semantic_hash": "3a7aecc260aec128fc7cf55232b80261"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_new.json": {
+    "mtime": 1780938802.9909525,
+    "ast_hash": "604abc61ce7f11936f6506729f3268d9",
+    "semantic_hash": "604abc61ce7f11936f6506729f3268d9"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_new_meta.json": {
+    "mtime": 1780938842.8219678,
+    "ast_hash": "8e51b7240a75c998cd3f60284196864b",
+    "semantic_hash": "8e51b7240a75c998cd3f60284196864b"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket_76.json": {
+    "mtime": 1780949747.8994095,
+    "ast_hash": "e5189b890a6c444b7fcf310dcf300a04",
+    "semantic_hash": "e5189b890a6c444b7fcf310dcf300a04"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket_77.json": {
+    "mtime": 1780950144.0698357,
+    "ast_hash": "8e869527aa8dba76dcdf6da7c456e48d",
+    "semantic_hash": "8e869527aa8dba76dcdf6da7c456e48d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\ticket_watcher.py": {
+    "mtime": 1780935083.6458526,
+    "ast_hash": "518db48790537bb92f2b2c35853a94a1",
+    "semantic_hash": "518db48790537bb92f2b2c35853a94a1"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tsconfig.json": {
+    "mtime": 1776730638.0,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": "ee17fd1c97c735e9f3564e3f5251f125"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\.vscode\\settings.json": {
+    "mtime": 1780934752.8621576,
+    "ast_hash": "e21598ab261bad9c03d700c295c63245",
+    "semantic_hash": "e21598ab261bad9c03d700c295c63245"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\scripts\\extract.js": {
+    "mtime": 1780931872.2893677,
+    "ast_hash": "3aee41fce11f26a5541de7f072f26316",
+    "semantic_hash": "3aee41fce11f26a5541de7f072f26316"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\app\\layout.tsx": {
+    "mtime": 1781297349.7786365,
+    "ast_hash": "7bf09647c3a8f398e5b576b851574afa",
+    "semantic_hash": "7bf09647c3a8f398e5b576b851574afa"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\app\\page.tsx": {
+    "mtime": 1781366935.3191037,
+    "ast_hash": "55006ffa90a11cee2d73478a39fbaf30",
+    "semantic_hash": "55006ffa90a11cee2d73478a39fbaf30"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\app\\services\\page.tsx": {
+    "mtime": 1781366935.3345912,
+    "ast_hash": "df691b03c2c31b61ab787bf7c12fbb91",
+    "semantic_hash": "df691b03c2c31b61ab787bf7c12fbb91"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\app\\services\\[id]\\page.tsx": {
+    "mtime": 1781291781.6022778,
+    "ast_hash": "76ffc83dbb25ed9def6de3e7dc414f8e",
+    "semantic_hash": "76ffc83dbb25ed9def6de3e7dc414f8e"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\providers\\SmoothScrollProvider.tsx": {
+    "mtime": 1776730638.0,
+    "ast_hash": "1cda95ce7900b09db5f8b5682a6b1f71",
+    "semantic_hash": "1cda95ce7900b09db5f8b5682a6b1f71"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\Baby3DSection.tsx": {
+    "mtime": 1780761919.1041684,
+    "ast_hash": "593be12b5e953f202ea92912b7ff36c1",
+    "semantic_hash": "593be12b5e953f202ea92912b7ff36c1"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\CinematicServiceDetail.tsx": {
+    "mtime": 1781303344.6883712,
+    "ast_hash": "0dd12e8408ad5bd5a2422d0d616838b6",
+    "semantic_hash": "0dd12e8408ad5bd5a2422d0d616838b6"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\Footer.tsx": {
+    "mtime": 1780932855.3960164,
+    "ast_hash": "77a0d02d2875eb0809c4f632b01da4af",
+    "semantic_hash": "77a0d02d2875eb0809c4f632b01da4af"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\GenericCinematicReveal.tsx": {
+    "mtime": 1781047620.838032,
+    "ast_hash": "f1b34aac6848d322a6fd0b2d9db48410",
+    "semantic_hash": "f1b34aac6848d322a6fd0b2d9db48410"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\Hero.tsx": {
+    "mtime": 1781293473.117008,
+    "ast_hash": "657a135a2869a835846cbd689d708601",
+    "semantic_hash": "657a135a2869a835846cbd689d708601"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\Hero3DLogo.tsx": {
+    "mtime": 1780957355.1687057,
+    "ast_hash": "6fb693bafe596e24b2f8f07cc60a03a9",
+    "semantic_hash": "6fb693bafe596e24b2f8f07cc60a03a9"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\HeroOriginal.tsx": {
+    "mtime": 1776730638.0,
+    "ast_hash": "d159e4741192df6e14c070062402d2b9",
+    "semantic_hash": "d159e4741192df6e14c070062402d2b9"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\ServicesCinematicReveal.tsx": {
+    "mtime": 1781282955.7443638,
+    "ast_hash": "80a354711594cda4276d403c04ad1c24",
+    "semantic_hash": "80a354711594cda4276d403c04ad1c24"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\SystemsNominal.tsx": {
+    "mtime": 1780947493.1640356,
+    "ast_hash": "16355f6b4147eafba89ab6f8fed75028",
+    "semantic_hash": "16355f6b4147eafba89ab6f8fed75028"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\AnimatedSection.tsx": {
+    "mtime": 1776730638.0,
+    "ast_hash": "ab02cbc1f960ef2676bfdb8de4786160",
+    "semantic_hash": "ab02cbc1f960ef2676bfdb8de4786160"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\BabyLogo.tsx": {
+    "mtime": 1780931876.3270507,
+    "ast_hash": "6eb2429e510aa46ab0d6c6b9d57bffca",
+    "semantic_hash": "6eb2429e510aa46ab0d6c6b9d57bffca"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\EyebrowBadge.tsx": {
+    "mtime": 1780939902.907382,
+    "ast_hash": "4f89512e65678d994b282c9361f816a5",
+    "semantic_hash": "4f89512e65678d994b282c9361f816a5"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\HudFrame.tsx": {
+    "mtime": 1776730638.0,
+    "ast_hash": "13f7408b8b20ec1e0570901d3a175b06",
+    "semantic_hash": "13f7408b8b20ec1e0570901d3a175b06"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\Navbar.tsx": {
+    "mtime": 1781303329.620528,
+    "ast_hash": "216e0c2228ab3fa6f38bedba473a577f",
+    "semantic_hash": "216e0c2228ab3fa6f38bedba473a577f"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\ScrambleText.tsx": {
+    "mtime": 1780931878.3415093,
+    "ast_hash": "908926d129328b85f34e7a9b9f16c85b",
+    "semantic_hash": "908926d129328b85f34e7a9b9f16c85b"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\ServiceCard.tsx": {
+    "mtime": 1781288208.108966,
+    "ast_hash": "3b3c7a2c7b5fd30236236c3024b7cdb9",
+    "semantic_hash": "3b3c7a2c7b5fd30236236c3024b7cdb9"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\ui\\UiTicket.tsx": {
+    "mtime": 1780933338.6006572,
+    "ast_hash": "40f10e5dea4bb76348f3644d4ef71394",
+    "semantic_hash": "40f10e5dea4bb76348f3644d4ef71394"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\lib\\cinematic.ts": {
+    "mtime": 1776730638.0,
+    "ast_hash": "8164e09cb9c30beaa24cc14fe5d3f217",
+    "semantic_hash": "8164e09cb9c30beaa24cc14fe5d3f217"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\lib\\cinematicData.json": {
+    "mtime": 1781045654.0161836,
+    "ast_hash": "1be86f6aa3e472e04daa148a30ae7f14",
+    "semantic_hash": "1be86f6aa3e472e04daa148a30ae7f14"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\lib\\hero.ts": {
+    "mtime": 1781303213.497267,
+    "ast_hash": "512914e5f2e67c6c9510cd6d13d513bb",
+    "semantic_hash": "512914e5f2e67c6c9510cd6d13d513bb"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\lib\\servicesData.json": {
+    "mtime": 1781300565.2561574,
+    "ast_hash": "fdbf86ee2d1a32d60b47ceac259f113c",
+    "semantic_hash": "fdbf86ee2d1a32d60b47ceac259f113c"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\AGENTS.md": {
+    "mtime": 1776730638.0,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": "9e09241799026ac05be315a2f0b50055"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\CLAUDE.md": {
+    "mtime": 1776730638.0,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\last_id.txt": {
+    "mtime": 1780937021.584449,
+    "ast_hash": "33e75ff09dd601bbe69f351039152189",
+    "semantic_hash": "33e75ff09dd601bbe69f351039152189"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\README.md": {
+    "mtime": 1776730638.0,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\baby.png": {
+    "mtime": 1780760961.7981634,
+    "ast_hash": "d87036a559788a772825a9f4bccf3e59",
+    "semantic_hash": "d87036a559788a772825a9f4bccf3e59"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\doctor.png": {
+    "mtime": 1780937442.7678516,
+    "ast_hash": "e03b5ca61aee8a6646bde0c855ea6895",
+    "semantic_hash": "e03b5ca61aee8a6646bde0c855ea6895"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\logo.png": {
+    "mtime": 1780932340.6153877,
+    "ast_hash": "5c476ff283bcc8e0fa7e1e21f9eeffe2",
+    "semantic_hash": "5c476ff283bcc8e0fa7e1e21f9eeffe2"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\logo2.png": {
+    "mtime": 1780936385.547207,
+    "ast_hash": "63a9d26cdd4aea86231a830dfaeefd17",
+    "semantic_hash": "63a9d26cdd4aea86231a830dfaeefd17"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\logo3.png": {
+    "mtime": 1780932340.6153877,
+    "ast_hash": "5c476ff283bcc8e0fa7e1e21f9eeffe2",
+    "semantic_hash": "5c476ff283bcc8e0fa7e1e21f9eeffe2"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\logo4.png": {
+    "mtime": 1702485156.9929523,
+    "ast_hash": "349c009c5773db756a4235b98f296719",
+    "semantic_hash": "349c009c5773db756a4235b98f296719"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\logo, do not mess up its proportions.png": {
+    "mtime": 1702485156.9929523,
+    "ast_hash": "349c009c5773db756a4235b98f296719",
+    "semantic_hash": "349c009c5773db756a4235b98f296719"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\map_static.png": {
+    "mtime": 1777911018.1564083,
+    "ast_hash": "f025514b6e684b891e9a78319439bcac",
+    "semantic_hash": "f025514b6e684b891e9a78319439bcac"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\brand colors to learn from\\blue.JPG": {
+    "mtime": 1770648461.0919776,
+    "ast_hash": "3199466744dee88e9e94c54752ed7be4",
+    "semantic_hash": "3199466744dee88e9e94c54752ed7be4"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\brand colors to learn from\\chartreuse.JPG": {
+    "mtime": 1770648415.095984,
+    "ast_hash": "78cfe9c67e005710229ed48c03710f90",
+    "semantic_hash": "78cfe9c67e005710229ed48c03710f90"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\brand colors to learn from\\dark blue.JPG": {
+    "mtime": 1770648494.34748,
+    "ast_hash": "4bf398d9934a2025ae37a8992f129a91",
+    "semantic_hash": "4bf398d9934a2025ae37a8992f129a91"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\social media icons\\facebook.png": {
+    "mtime": 1777910446.902377,
+    "ast_hash": "38939f8642bdc2af5c1f1e413b420179",
+    "semantic_hash": "38939f8642bdc2af5c1f1e413b420179"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\social media icons\\instagram.png": {
+    "mtime": 1777910446.9086988,
+    "ast_hash": "1bea2017e33f316d2c69c4aa6453b334",
+    "semantic_hash": "1bea2017e33f316d2c69c4aa6453b334"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\nmc\\social media icons\\whatsapp.png": {
+    "mtime": 1777910446.9060147,
+    "ast_hash": "122ce8bcfca979ce30bde8cebcf0b522",
+    "semantic_hash": "122ce8bcfca979ce30bde8cebcf0b522"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\quotes\\quote-1.jpg": {
+    "mtime": 1780942183.7162383,
+    "ast_hash": "2f0624f89b2024529100dc4fefe1842b",
+    "semantic_hash": "2f0624f89b2024529100dc4fefe1842b"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\quotes\\quote-2.jpg": {
+    "mtime": 1780942183.7389557,
+    "ast_hash": "89d149975a1653c694027a1b9dd20537",
+    "semantic_hash": "89d149975a1653c694027a1b9dd20537"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\quotes\\quote-3.jpg": {
+    "mtime": 1780942183.7658834,
+    "ast_hash": "9eaed3533db4c8aae3ea0218ae6759e6",
+    "semantic_hash": "9eaed3533db4c8aae3ea0218ae6759e6"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\andrology.jpg": {
+    "mtime": 1777833731.2707279,
+    "ast_hash": "38791769433bf4bae6b96bbde8c690f1",
+    "semantic_hash": "38791769433bf4bae6b96bbde8c690f1"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\cosmetic_ultrasound.jpg": {
+    "mtime": 1777833731.3292243,
+    "ast_hash": "e5ba581187961ce5a3ea67dacc52f392",
+    "semantic_hash": "e5ba581187961ce5a3ea67dacc52f392"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\freezing_unit.jpg": {
+    "mtime": 1777834480.9617002,
+    "ast_hash": "155b1375a4f0aa19071af99a88455550",
+    "semantic_hash": "155b1375a4f0aa19071af99a88455550"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\gender_selection.jpg": {
+    "mtime": 1777833539.3361857,
+    "ast_hash": "2a47d0fa327529b4a28b224aad9a8ae4",
+    "semantic_hash": "2a47d0fa327529b4a28b224aad9a8ae4"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\incubators.jpg": {
+    "mtime": 1777833539.3136568,
+    "ast_hash": "38763329ccdaed793f5199f52ad28dce",
+    "semantic_hash": "38763329ccdaed793f5199f52ad28dce"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\iui.jpg": {
+    "mtime": 1777833539.3740633,
+    "ast_hash": "6382a6af943f89a635caaf11aca9f5b6",
+    "semantic_hash": "6382a6af943f89a635caaf11aca9f5b6"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\laparoscopy.jpg": {
+    "mtime": 1777833539.3553195,
+    "ast_hash": "8c51d75000c605165ecd95542050fb1e",
+    "semantic_hash": "8c51d75000c605165ecd95542050fb1e"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\male_infertility.jpg": {
+    "mtime": 1777834480.9415076,
+    "ast_hash": "38791769433bf4bae6b96bbde8c690f1",
+    "semantic_hash": "38791769433bf4bae6b96bbde8c690f1"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\obgyn_clinic.jpg": {
+    "mtime": 1777834480.981581,
+    "ast_hash": "b085e5ac78d062fc38049a04a328b086",
+    "semantic_hash": "b085e5ac78d062fc38049a04a328b086"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\octax.jpg": {
+    "mtime": 1777833539.2930844,
+    "ast_hash": "b5c5172469e3e0c0711ee3a997a72490",
+    "semantic_hash": "b5c5172469e3e0c0711ee3a997a72490"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\ovulation_induction.jpg": {
+    "mtime": 1777834480.911694,
+    "ast_hash": "6e52efcdc30253293fa51de345de5b1d",
+    "semantic_hash": "6e52efcdc30253293fa51de345de5b1d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\ovulation_stimulation.jpg": {
+    "mtime": 1777833731.2485433,
+    "ast_hash": "6e52efcdc30253293fa51de345de5b1d",
+    "semantic_hash": "6e52efcdc30253293fa51de345de5b1d"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\services_cover.jpg": {
+    "mtime": 1777844838.0046396,
+    "ast_hash": "ebe86202ab3b6f687401ce9023dfc433",
+    "semantic_hash": "ebe86202ab3b6f687401ce9023dfc433"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\services featured highlight\\cosmetic_ultrasound.jpg": {
+    "mtime": 1777833731.3292243,
+    "ast_hash": "e5ba581187961ce5a3ea67dacc52f392",
+    "semantic_hash": "e5ba581187961ce5a3ea67dacc52f392"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\services featured highlight\\freezing_unit.jpg": {
+    "mtime": 1777834480.9617002,
+    "ast_hash": "155b1375a4f0aa19071af99a88455550",
+    "semantic_hash": "155b1375a4f0aa19071af99a88455550"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\services\\services featured highlight\\gender_selection.jpg": {
+    "mtime": 1777833539.3361857,
+    "ast_hash": "2a47d0fa327529b4a28b224aad9a8ae4",
+    "semantic_hash": "2a47d0fa327529b4a28b224aad9a8ae4"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\social\\facebook.png": {
+    "mtime": 1777910446.902377,
+    "ast_hash": "38939f8642bdc2af5c1f1e413b420179",
+    "semantic_hash": "38939f8642bdc2af5c1f1e413b420179"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\social\\instagram.png": {
+    "mtime": 1777910446.9086988,
+    "ast_hash": "1bea2017e33f316d2c69c4aa6453b334",
+    "semantic_hash": "1bea2017e33f316d2c69c4aa6453b334"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\public\\social\\whatsapp.png": {
+    "mtime": 1777910446.9060147,
+    "ast_hash": "122ce8bcfca979ce30bde8cebcf0b522",
+    "semantic_hash": "122ce8bcfca979ce30bde8cebcf0b522"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\count.py": {
+    "mtime": 1781035673.5053012,
+    "ast_hash": "fcd9f444d41d244f576e3819a5cb85ea",
+    "semantic_hash": "fcd9f444d41d244f576e3819a5cb85ea"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\filter.py": {
+    "mtime": 1781035890.6994717,
+    "ast_hash": "3bd98057d2e17f1bd3b82b6b667643a9",
+    "semantic_hash": "3bd98057d2e17f1bd3b82b6b667643a9"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\generateData.js": {
+    "mtime": 1781300537.0825577,
+    "ast_hash": "7192a3c16e3141fb39153c74b382b313",
+    "semantic_hash": "7192a3c16e3141fb39153c74b382b313"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\tickets_latest_dump.json": {
+    "mtime": 1781288074.9877067,
+    "ast_hash": "2b55add39b7a931119def1184c6e64ff",
+    "semantic_hash": "2b55add39b7a931119def1184c6e64ff"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\top_dirs.py": {
+    "mtime": 1781035712.715028,
+    "ast_hash": "4411404d037b69df4ae16bc0a304fc29",
+    "semantic_hash": "4411404d037b69df4ae16bc0a304fc29"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\scripts\\update_services.js": {
+    "mtime": 1781285623.553064,
+    "ast_hash": "ba66f4630d69f50cacc9f558ec996e6a",
+    "semantic_hash": "ba66f4630d69f50cacc9f558ec996e6a"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\src\\components\\sections\\FeaturedServicesGrid.tsx": {
+    "mtime": 1781302020.1736445,
+    "ast_hash": "bf399f92175c9ec1f4f3b13a5095a9b7",
+    "semantic_hash": "bf399f92175c9ec1f4f3b13a5095a9b7"
+  },
+  "C:\\Users\\PC\\Documents\\iroooooooonman\\iron-man-main\\lint_output.txt": {
+    "mtime": 1781366762.4992034,
+    "ast_hash": "fb74fcd371088fce8c9f32b4e7932d5d",
+    "semantic_hash": "fb74fcd371088fce8c9f32b4e7932d5d"
+  }
+}

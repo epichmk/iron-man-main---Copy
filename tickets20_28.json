@@ -1,0 +1,371 @@
+[
+  {
+    "id": 20,
+    "author": "a",
+    "text": "أعلى نسب نجاح\nنسجل أعلى معدلات نجاح لعمليات الحقن المجهري وأطفال الأنابيب على مستوى اليمن بفضل الله ثم التقنيات الحديثة.",
+    "metadata": {
+      "element": "blockquote",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.right-6:nth-of-type(12) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(12) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "fingerprint": {
+        "tag": "blockquote",
+        "text": "“Sometimes you gotta run before you can walk.”",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "“Sometimes you gotta run before you can walk.”",
+        "role": "",
+        "description": "blockquote \"“Sometimes you gotta run before you can walk.”\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 177.22222900390625,
+        "width": 370.22222900390625,
+        "height": 55
+      },
+      "nearbyText": "“Sometimes you gotta run before you can walk.” | [after:] Tony StarkIRON MAN — 2008",
+      "cssClasses": "font-sans text-xl font-medium leading-snug tracking-tight text-foreground",
+      "nearbyElements": "Parent: figure.card-surface (2 children) | Siblings: figcaption.mt-4",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > blockquote.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 21,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'Tony Stark'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.right-6:nth-of-type(12) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(12) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "Tony Stark",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "Tony Stark",
+        "role": "",
+        "description": "span \"Tony Stark\""
+      },
+      "boundingBox": {
+        "x": 1539.7222900390625,
+        "y": 248.22222900390625,
+        "width": 65.61111450195312,
+        "height": 20
+      },
+      "nearbyText": "Tony Stark | [after:] IRON MAN — 2008",
+      "cssClasses": "font-sans text-sm text-zinc-300",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-mono",
+      "computedStyles": "color: lab(84.9837 0.601262 -2.17985), font-size: 14px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 22,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'IRON MAN — 2008'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.right-6:nth-of-type(12) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(12) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "IRON MAN — 2008",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "IRON MAN — 2008",
+        "role": "",
+        "description": "span \"IRON MAN — 2008\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 250.72222900390625,
+        "width": 116.77777862548828,
+        "height": 15
+      },
+      "nearbyText": "[before:] Tony Stark | IRON MAN — 2008",
+      "cssClasses": "font-mono uppercase tracking-[0.24em] text-accent",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-sans",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 15px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-mono",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 23,
+    "author": "a",
+    "text": "30+ عاماً من الخبرة\nتأسس المركز تحت إشراف الدكتورة نجاة الملس، رائدة أطفال الأنابيب الأولى في اليمن واستشارية النساء والولادة.",
+    "metadata": {
+      "element": "blockquote",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.top-1\\/2:nth-of-type(13) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(13) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "fingerprint": {
+        "tag": "blockquote",
+        "text": "“Genius. Billionaire. Playboy. Philanthropist.”",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "“Genius. Billionaire. Playboy. Philanthropist.”",
+        "role": "",
+        "description": "blockquote \"“Genius. Billionaire. Playboy. Philanthropist.”\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 314.47222900390625,
+        "width": 370.22222900390625,
+        "height": 27.5
+      },
+      "nearbyText": "“Genius. Billionaire. Playboy. Philanthropist.” | [after:] Tony StarkTHE AVENGERS — 2012",
+      "cssClasses": "font-sans text-xl font-medium leading-snug tracking-tight text-foreground",
+      "nearbyElements": "Parent: figure.card-surface (2 children) | Siblings: figcaption.mt-4",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > blockquote.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 24,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'Tony Stark'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.top-1\\/2:nth-of-type(13) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(13) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "Tony Stark",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "Tony Stark",
+        "role": "",
+        "description": "span \"Tony Stark\""
+      },
+      "boundingBox": {
+        "x": 1539.7222900390625,
+        "y": 357.97222900390625,
+        "width": 65.61111450195312,
+        "height": 20
+      },
+      "nearbyText": "Tony Stark | [after:] THE AVENGERS — 2012",
+      "cssClasses": "font-sans text-sm text-zinc-300",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-mono",
+      "computedStyles": "color: lab(84.9837 0.601262 -2.17985), font-size: 14px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 25,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'THE AVENGERS — 2012'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.top-1\\/2:nth-of-type(13) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(13) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "THE AVENGERS — 2012",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "THE AVENGERS — 2012",
+        "role": "",
+        "description": "span \"THE AVENGERS — 2012\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 360.47222900390625,
+        "width": 153.47222900390625,
+        "height": 15
+      },
+      "nearbyText": "[before:] Tony Stark | THE AVENGERS — 2012",
+      "cssClasses": "font-mono uppercase tracking-[0.24em] text-accent",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-sans",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 15px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-mono",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 26,
+    "author": "a",
+    "text": "تقنيات متقدمة جداً\nنمتلك أحدث حاضنات أجنة ثلاثية الغازات، وتقنية IX3-ICSI-IMSI المتطورة.",
+    "metadata": {
+      "element": "blockquote",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(14) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(14) > figure.card-surface.pointer-events-auto > blockquote.font-sans.text-xl",
+      "fingerprint": {
+        "tag": "blockquote",
+        "text": "“Part of the journey is the end.”",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "“Part of the journey is the end.”",
+        "role": "",
+        "description": "blockquote \"“Part of the journey is the end.”\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 492.0555725097656,
+        "width": 370.22222900390625,
+        "height": 27.5
+      },
+      "nearbyText": "“Part of the journey is the end.” | [after:] Tony StarkAVENGERS: ENDGAME — 2019",
+      "cssClasses": "font-sans text-xl font-medium leading-snug tracking-tight text-foreground",
+      "nearbyElements": "Parent: figure.card-surface (2 children) | Siblings: figcaption.mt-4",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > blockquote.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 27,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'Tony Stark'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(14) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(14) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-sans.text-sm:nth-of-type(1)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "Tony Stark",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "Tony Stark",
+        "role": "",
+        "description": "span \"Tony Stark\""
+      },
+      "boundingBox": {
+        "x": 1539.7222900390625,
+        "y": 535.5555419921875,
+        "width": 65.61111450195312,
+        "height": 20
+      },
+      "nearbyText": "Tony Stark | [after:] AVENGERS: ENDGAME — 2019",
+      "cssClasses": "font-sans text-sm text-zinc-300",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-mono",
+      "computedStyles": "color: lab(84.9837 0.601262 -2.17985), font-size: 14px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 20px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 28,
+    "author": "a",
+    "text": "remove this text",
+    "metadata": {
+      "element": "span 'AVENGERS: ENDGAME — 2019'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(14) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(14) > figure.card-surface.pointer-events-auto > figcaption.mt-4.flex > span.font-mono.uppercase:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "AVENGERS: ENDGAME — 2019",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "AVENGERS: ENDGAME — 2019",
+        "role": "",
+        "description": "span \"AVENGERS: ENDGAME — 2019\""
+      },
+      "boundingBox": {
+        "x": 1235.111083984375,
+        "y": 538.0555419921875,
+        "width": 198.51388549804688,
+        "height": 15
+      },
+      "nearbyText": "[before:] Tony Stark | AVENGERS: ENDGAME — 2019",
+      "cssClasses": "font-mono uppercase tracking-[0.24em] text-accent",
+      "nearbyElements": "Parent: figcaption.mt-4 (2 children) | Siblings: span.font-sans",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 15px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.card-surface > figcaption.mt-4 > span.font-mono",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

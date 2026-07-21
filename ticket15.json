@@ -1,0 +1,36 @@
+{
+  "element": "span 'J.A.R.V.I.S. // DIAGNOSTIC'",
+  "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-0:nth-of-type(11) > div.mx-6.flex:nth-of-type(2) > span:nth-of-type(2)",
+  "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(11) > div.mx-6.flex:nth-of-type(2) > span:nth-of-type(2)",
+  "fingerprint": {
+    "tag": "span",
+    "text": "J.A.R.V.I.S. // DIAGNOSTIC",
+    "role": "",
+    "ariaLabel": "",
+    "name": "",
+    "anchor": ""
+  },
+  "sourceContext": {
+    "component": "",
+    "componentPath": [],
+    "widgetType": "",
+    "columnHeader": "",
+    "fieldLabel": "",
+    "textContent": "J.A.R.V.I.S. // DIAGNOSTIC",
+    "role": "",
+    "description": "span \"J.A.R.V.I.S. // DIAGNOSTIC\""
+  },
+  "boundingBox": {
+    "x": 731.013916015625,
+    "y": 661.4444580078125,
+    "width": 195.63888549804688,
+    "height": 15
+  },
+  "nearbyText": "[before:] SEQ 001 / 169 | J.A.R.V.I.S. // DIAGNOSTIC | [after:] Scroll ↓",
+  "cssClasses": "",
+  "nearbyElements": "Parent: div.mx-6 (3 children) | Siblings: span, span",
+  "computedStyles": "color: lab(47.8878 1.65477 -5.77283), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 15px",
+  "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.mx-6 > span",
+  "accessibility": "none",
+  "url": "http://localhost:3000/"
+}

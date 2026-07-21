@@ -1,0 +1,248 @@
+[
+  {
+    "id": 36,
+    "author": "a",
+    "text": "بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها",
+    "metadata": {
+      "element": "Heading 2 'بعض الأحلام لايمكن ان نعيش من غير تحقيق'",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(9) > h2.font-sans.font-semibold",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > h2.font-sans.font-semibold",
+      "fingerprint": {
+        "tag": "h2",
+        "text": "بعض الأحلام لايمكن ان نعيش من غير تحقيق",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "بعض الأحلام لايمكن ان نعيش من غير تحقيق",
+        "role": "",
+        "description": "h2 \"بعض الأحلام لايمكن ان نعيش من غير تحقيق\""
+      },
+      "boundingBox": {
+        "x": 48,
+        "y": 252.05555725097656,
+        "width": 973.3611450195312,
+        "height": 158.38888549804688
+      },
+      "nearbyText": "[before:] تواصلكم معنا مرحب به | بعض الأحلام لايمكن ان نعيش من غير تحقيق | [after:] إتصال إستشارة موعد إستخارة وتوكل على الله",
+      "cssClasses": "font-sans font-semibold tracking-tighter text-foreground text-[clamp(2rem,4.5vw,4.5rem)] text-left",
+      "nearbyElements": "Parent: div.absolute (4 children) | Siblings: span.inline-flex, p.font-sans, a.mt-2",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 72px, font-weight: 600, font-family: geSS, \"geSS Fallback\", line-height: 79.2px, text-align: left",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > h2.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 37,
+    "author": "a",
+    "text": "إحجز موعد الآن",
+    "metadata": {
+      "element": "Link 'تواصل عبر واتساب'",
+      "selector": "a.mt-2.inline-flex.items-center",
+      "stableSelector": "a.mt-2.inline-flex.items-center",
+      "fingerprint": {
+        "tag": "a",
+        "text": "تواصل عبر واتساب",
+        "role": "link",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "تواصل عبر واتساب",
+        "role": "link",
+        "description": "link \"تواصل عبر واتساب\""
+      },
+      "boundingBox": {
+        "x": 842.0416870117188,
+        "y": 536.4444580078125,
+        "width": 179.31944274902344,
+        "height": 44
+      },
+      "nearbyText": "[before:] إتصال إستشارة موعد إستخارة وتوكل على الله | تواصل عبر واتساب",
+      "cssClasses": "mt-2 inline-flex items-center justify-center rounded-full bg-accent px-8 py-3 font-sans text-sm font-bold text-background transition-all hover:bg-accent/90",
+      "nearbyElements": "Parent: div.absolute (4 children) | Siblings: h2.font-sans, p.font-sans",
+      "computedStyles": "color: rgb(0, 21, 41), background: rgb(212, 230, 22), font-size: 14px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > a.mt-2",
+      "accessibility": "focusable",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 38,
+    "author": "a",
+    "text": "replace with the stats text that i asked you to add instead of the cards. the higher success rates, and the 30 years experience and the advanced tech.\nanimated. ",
+    "metadata": {
+      "element": "p 'إتصال إستشارة موعد إستخارة وتوكل على الل...'",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(9) > p.font-sans.text-base",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > p.font-sans.text-base",
+      "fingerprint": {
+        "tag": "p",
+        "text": "إتصال إستشارة موعد إستخارة وتوكل على الله",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "إتصال إستشارة موعد إستخارة وتوكل على الله",
+        "role": "",
+        "description": "p \"إتصال إستشارة موعد إستخارة وتوكل على الله\""
+      },
+      "boundingBox": {
+        "x": 860.0833129882812,
+        "y": 430.4444580078125,
+        "width": 161.2777862548828,
+        "height": 78
+      },
+      "nearbyText": "[before:] بعض الأحلام لايمكن ان نعيش من غير تحقيق | إتصال إستشارة موعد إستخارة وتوكل على الله | [after:] تواصل عبر واتساب",
+      "cssClasses": "font-sans text-base leading-relaxed text-zinc-400 whitespace-pre-line text-left",
+      "nearbyElements": "Parent: div.absolute (4 children) | Siblings: span.inline-flex, h2.font-sans, a.mt-2",
+      "computedStyles": "color: lab(65.6464 1.53494 -5.42429), font-size: 16px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 26px, text-align: left",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > p.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 39,
+    "author": "a",
+    "text": "حلم الأبوة والأمومة ليس مجرد أمل، بل هو رسالة نسعى لتحقيقها بكل تفانٍ بمشيئة الله.",
+    "metadata": {
+      "element": "figure",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.right-6:nth-of-type(13) > figure.pointer-events-auto.flex",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(13) > figure.pointer-events-auto.flex",
+      "fingerprint": {
+        "tag": "figure",
+        "text": "أعلى نسب نجاحنسجل أعلى معدلات نجاح لعمليات الحقن المجهري وأطفال الأنابيب على مست...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "أعلى نسب نجاحنسجل أعلى معدلات نجاح لعمليات الحقن المجهري وأط...",
+        "role": "",
+        "description": "figure \"أعلى نسب نجاحنسجل أعلى معدلات نجاح لعمليات الحقن المجهري وأط...\""
+      },
+      "boundingBox": {
+        "x": 1210.2222900390625,
+        "y": 152.3333282470703,
+        "width": 420,
+        "height": 83.5
+      },
+      "nearbyText": "أعلى نسب نجاحنسجل أعلى معدلات نجاح لعمليات الحقن المجهري وأطفال الأنابيب على مستوى اليمن بفضل الله ثم التقنيات الحديثة.",
+      "cssClasses": "pointer-events-auto flex gap-5 transition-all duration-700 ease-out translate-x-0 opacity-100",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.pointer-events-auto",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 40,
+    "author": "a",
+    "text": "رؤية ابتسامة الوالدين عند احتضان طفلهما الأول هي الدافع الذي يجعلنا نستمر في العطاء.",
+    "metadata": {
+      "element": "figure",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.top-1\\/2:nth-of-type(14) > figure.pointer-events-auto.flex",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(14) > figure.pointer-events-auto.flex",
+      "fingerprint": {
+        "tag": "figure",
+        "text": "30+ عاماً من الخبرةتأسس المركز تحت إشراف الدكتورة نجاة الملس، رائدة أطفال الأناب...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "30+ عاماً من الخبرةتأسس المركز تحت إشراف الدكتورة نجاة الملس...",
+        "role": "",
+        "description": "figure \"30+ عاماً من الخبرةتأسس المركز تحت إشراف الدكتورة نجاة الملس...\""
+      },
+      "boundingBox": {
+        "x": 1210.2222900390625,
+        "y": 304.47222900390625,
+        "width": 420,
+        "height": 83.5
+      },
+      "nearbyText": "30+ عاماً من الخبرةتأسس المركز تحت إشراف الدكتورة نجاة الملس، رائدة أطفال الأنابيب الأولى في اليمن واستشارية النساء والولادة.",
+      "cssClasses": "pointer-events-auto flex gap-5 transition-all duration-700 ease-out translate-x-0 opacity-100",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.pointer-events-auto",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 41,
+    "author": "a",
+    "text": "التعلم من الرواد والالتزام بأعلى المعايير الطبية العالمية هو ما يضمن جودة الخدمة وسلامة الأجنة.",
+    "metadata": {
+      "element": "figure",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.bottom-24:nth-of-type(15) > figure.pointer-events-auto.flex",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(15) > figure.pointer-events-auto.flex",
+      "fingerprint": {
+        "tag": "figure",
+        "text": "تقنيات متقدمة جداًنمتلك أحدث حاضنات أجنة ثلاثية الغازات، وتقنية IX3-ICSI-IMSI ال...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "تقنيات متقدمة جداًنمتلك أحدث حاضنات أجنة ثلاثية الغازات، وتق...",
+        "role": "",
+        "description": "figure \"تقنيات متقدمة جداًنمتلك أحدث حاضنات أجنة ثلاثية الغازات، وتق...\""
+      },
+      "boundingBox": {
+        "x": 1210.2222900390625,
+        "y": 496.9444580078125,
+        "width": 420,
+        "height": 83.5
+      },
+      "nearbyText": "تقنيات متقدمة جداًنمتلك أحدث حاضنات أجنة ثلاثية الغازات، وتقنية IX3-ICSI-IMSI المتطورة.",
+      "cssClasses": "pointer-events-auto flex gap-5 transition-all duration-700 ease-out translate-x-0 opacity-100",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.pointer-events-auto",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

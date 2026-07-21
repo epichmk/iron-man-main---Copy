@@ -1,0 +1,8 @@
+ID: male-infertility
+Title: ÇáÚŞã ÚäÏ ÇáĞßæÑ
+Image: /services/male-infertility_squared.jpg
+--------------------
+ID: andrology
+Title: ÃãÑÇÖ ÇáĞßæÑÉ
+Image: /services/andrology.jpg
+--------------------

@@ -1,0 +1,207 @@
+[
+  {
+    "id": 71,
+    "author": "a",
+    "text": "add effects. enter effects. exit effects. and animations. make this maximalist animation.",
+    "metadata": {
+      "element": "Div (absolute inset-x-6 md:bottom-auto md:top...)",
+      "selector": "div.absolute.inset-x-6.md\\:bottom-auto",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(16)",
+      "fingerprint": {
+        "tag": "div",
+        "text": "\"رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ\"(سورة الأنبياء، الآية ...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "\"رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ\"(س...",
+        "role": "",
+        "description": "div \"\"رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ\"(س...\""
+      },
+      "boundingBox": {
+        "x": 24,
+        "y": 641.2083129882812,
+        "width": 364,
+        "height": 182.3958282470703
+      },
+      "nearbyText": "[before:] المعايير الطبية العالميةالتعلم من الرواد والالتزام بأعلى الم... | \"رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ\"(سورة الأنبياء، الآية ٨٩)",
+      "cssClasses": "absolute inset-x-6 md:bottom-auto md:top-1/2 z-20 md:-translate-y-1/2 md:inset-x-auto transition-all ease-[cubic-bezier(0.16,1,0.3,1)] opacity-100 translate-y-0 scale-100 pointer-events-auto",
+      "nearbyElements": "Parent: div.sticky (16 children) | Siblings: div.absolute, div.absolute",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: block, flex-direction: row",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 70,
+    "author": "a",
+    "text": "move below the images. inside smartphone view only.",
+    "metadata": {
+      "element": "Link 'مكالمة استشارية'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(2) > a.inline-flex.items-center:nth-of-type(2)",
+      "stableSelector": "a[href=\"tel\\:\\+967733000000\"]",
+      "fingerprint": {
+        "tag": "a",
+        "text": "مكالمة استشارية",
+        "role": "link",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "مكالمة استشارية",
+        "role": "link",
+        "description": "link \"مكالمة استشارية\""
+      },
+      "boundingBox": {
+        "x": 24,
+        "y": 490.1944580078125,
+        "width": 176.88888549804688,
+        "height": 41.77083206176758
+      },
+      "nearbyText": "[before:] إحجز موعد الآن | مكالمة استشارية",
+      "cssClasses": "inline-flex items-center justify-center rounded-full bg-transparent border border-accent/40 text-accent px-4 py-3 font-sans text-xs md:text-base font-bold transition-all hover:bg-accent/10 hover:border-accent flex-1 md:flex-none",
+      "nearbyElements": "Parent: div.opacity-0 (2 children) | Siblings: a.inline-flex",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 12px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > a.inline-flex",
+      "accessibility": "focusable",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 69,
+    "author": "a",
+    "text": "move below the images. inside smartphone view only.",
+    "metadata": {
+      "element": "Link 'إحجز موعد الآن'",
+      "selector": "section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(2) > a.inline-flex.items-center:nth-of-type(1)",
+      "stableSelector": "a[href=\"https\\:\\/\\/wa\\.me\\/967733000000\\?text\\=مرحباً،\\ أود\\ الاستفسار\\ عن\\ حجز\\ موعد\\.\"]",
+      "fingerprint": {
+        "tag": "a",
+        "text": "إحجز موعد الآن",
+        "role": "link",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "إحجز موعد الآن",
+        "role": "link",
+        "description": "link \"إحجز موعد الآن\""
+      },
+      "boundingBox": {
+        "x": 212.88888549804688,
+        "y": 491.0833435058594,
+        "width": 175.11111450195312,
+        "height": 39.99305725097656
+      },
+      "nearbyText": "إحجز موعد الآن | [after:] مكالمة استشارية",
+      "cssClasses": "inline-flex items-center justify-center rounded-full bg-accent px-4 py-3 font-sans text-xs md:text-base font-bold text-background transition-all hover:bg-accent/90 flex-1 md:flex-none",
+      "nearbyElements": "Parent: div.opacity-0 (2 children) | Siblings: a.inline-flex",
+      "computedStyles": "color: rgb(0, 21, 41), background: rgb(212, 230, 22), font-size: 12px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > a.inline-flex",
+      "accessibility": "focusable",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 68,
+    "author": "a",
+    "text": "animate\n",
+    "metadata": {
+      "element": "span 'أحدث التقنيات المتقدمة'",
+      "selector": "div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(1) > div.flex.flex-col:nth-of-type(5) > span.text-zinc-300.md\\:text-sm:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(1) > div.flex.flex-col:nth-of-type(5) > span.text-zinc-300.md\\:text-sm:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "أحدث التقنيات المتقدمة",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "أحدث التقنيات المتقدمة",
+        "role": "",
+        "description": "span \"أحدث التقنيات المتقدمة\""
+      },
+      "boundingBox": {
+        "x": 26.765527725219727,
+        "y": 434.6741638183594,
+        "width": 110.46894073486328,
+        "height": 14.02463150024414
+      },
+      "nearbyText": "[before:] IX3 | أحدث التقنيات المتقدمة",
+      "cssClasses": "text-zinc-300 md:text-sm leading-snug text-center md:text-right",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.stat-3",
+      "computedStyles": "color: lab(84.9837 0.601262 -2.17985), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", system-ui, sans-serif, line-height: 13.75px, text-align: center",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > div.flex > span.text-zinc-300",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 67,
+    "author": "a",
+    "text": "animate",
+    "metadata": {
+      "element": "span 'أعلى نسب نجاح باليمن'",
+      "selector": "div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(1) > div.flex.flex-col:nth-of-type(1) > span.text-zinc-300.md\\:text-sm:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col > div.opacity-0.translate-y-8:nth-of-type(1) > div.flex.flex-col:nth-of-type(1) > span.text-zinc-300.md\\:text-sm:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "أعلى نسب نجاح باليمن",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "أعلى نسب نجاح باليمن",
+        "role": "",
+        "description": "span \"أعلى نسب نجاح باليمن\""
+      },
+      "boundingBox": {
+        "x": 280.4894714355469,
+        "y": 440.3426513671875,
+        "width": 99.02099609375,
+        "height": 13.75485610961914
+      },
+      "nearbyText": "[before:] 98% | أعلى نسب نجاح باليمن",
+      "cssClasses": "text-zinc-300 md:text-sm leading-snug text-center md:text-right",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.stat-1",
+      "computedStyles": "color: lab(84.9837 0.601262 -2.17985), font-size: 10px, font-weight: 400, font-family: geSS, \"geSS Fallback\", system-ui, sans-serif, line-height: 13.75px, text-align: center",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > div.flex > span.text-zinc-300",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

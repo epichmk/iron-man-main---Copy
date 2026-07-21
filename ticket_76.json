@@ -1,0 +1,43 @@
+[
+  {
+    "id": 76,
+    "author": "a",
+    "text": "on desktop only,  this box text should fit one row. all text must be in one row. keep the text colors.",
+    "metadata": {
+      "element": "Heading 1 'أول طبيبةأطفال أنابيبفي اليمن'",
+      "selector": "h1.font-sans.text-\\[2\\.5rem\\].font-bold",
+      "stableSelector": "h1.font-sans.text-\\[2\\.5rem\\].font-bold",
+      "fingerprint": {
+        "tag": "h1",
+        "text": "أول طبيبةأطفال أنابيبفي اليمن",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "أول طبيبةأطفال أنابيبفي اليمن",
+        "role": "",
+        "description": "h1 \"أول طبيبةأطفال أنابيبفي اليمن\""
+      },
+      "boundingBox": {
+        "x": 1285.15283203125,
+        "y": 320.1944580078125,
+        "width": 345.0694580078125,
+        "height": 207
+      },
+      "nearbyText": "[before:] المركز الرائد في الحقن المجهري في اليمن | أول طبيبةأطفال أنابيبفي اليمن | [after:] مركز د. نجاة الملس للمساعدة على الحمل والحقن المجهري وأطفال ...",
+      "cssClasses": "font-sans text-[2.5rem] font-bold tracking-normal text-white md:text-5xl lg:text-6xl drop-shadow-lg md:leading-[1.15] lg:leading-[1.15]",
+      "nearbyElements": "Parent: div.absolute (3 children) | Siblings: span.inline-flex, p.w-full",
+      "computedStyles": "color: rgb(255, 255, 255), font-size: 60px, font-weight: 700, font-family: geSS, \"geSS Fallback\", line-height: 69px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > h1.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

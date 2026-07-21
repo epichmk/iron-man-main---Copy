@@ -1,0 +1,207 @@
+[
+  {
+    "id": 55,
+    "author": "a",
+    "text": "apply this on all other sections following this hero banner, please.",
+    "metadata": {
+      "element": "span 'بإذن الله'",
+      "selector": "span.font-sans.font-bold.tracking-widest",
+      "stableSelector": "span.font-sans.font-bold.tracking-widest",
+      "fingerprint": {
+        "tag": "span",
+        "text": "بإذن الله",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "بإذن الله",
+        "role": "",
+        "description": "span \"بإذن الله\""
+      },
+      "boundingBox": {
+        "x": 40,
+        "y": 96,
+        "width": 44.75,
+        "height": 18
+      },
+      "nearbyText": "بإذن الله",
+      "cssClasses": "font-sans font-bold tracking-widest text-zinc-400",
+      "nearbyElements": "Parent: div.absolute (2 children) | Siblings: div.h-px",
+      "computedStyles": "color: lab(65.6464 1.53494 -5.42429), font-size: 12px, font-weight: 700, font-family: geSS, \"geSS Fallback\", line-height: 18px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > span.font-sans",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 54,
+    "author": "a",
+    "text": "when the menu bra disappears \nthe slogan should animate when scrolling down happens (animates in shifting position to the center of the menu bar, as if all elements in the menu bar retract and go inside it to hide. the rest of the scrolling journey the slogan text only will remain throughut all sections of the homepage,, when the user scrolls up, menu pops when only the slogan is clicked, the slogan must have an indicator of the menu being hidden and it can only be shown again until its clicked or the scrolling reaches the top.",
+    "metadata": {
+      "element": "Div (sticky top-0 w-full overflow-hidden bg-b...)",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0",
+      "stableSelector": "section > div.sticky.top-0",
+      "fingerprint": {
+        "tag": "div",
+        "text": "المركز الرائد في الحقن المجهري في اليمنأول طبيبةأطفال أنابيبفي اليمنمركز د. نجاة...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "المركز الرائد في الحقن المجهري في اليمنأول طبيبةأطفال أنابيب...",
+        "role": "",
+        "description": "div \"المركز الرائد في الحقن المجهري في اليمنأول طبيبةأطفال أنابيب...\""
+      },
+      "boundingBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1678.2222900390625,
+        "height": 692.4444580078125
+      },
+      "nearbyText": "المركز الرائد في الحقن المجهري في اليمنأول طبيبةأطفال أنابيبفي اليمنمركز د. نجاة الملس للمساعدة على الحمل والحقن المجهري وأطفال الأنابيب.تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير ت...",
+      "cssClasses": "sticky top-0 w-full overflow-hidden bg-background",
+      "nearbyElements": "Parent: section.scroll-animation (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), background: rgb(0, 21, 41), font-size: 16px, display: block, flex-direction: row",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 53,
+    "author": "a",
+    "text": "add  the following text \n\nمركز طبي متكامل بأعلى معايير الجودة لتقديم أحدث حلول المساعدة على الإنجاب والحقن المجهري في اليمن",
+    "metadata": {
+      "element": "Div (flex flex-col gap-6 items-center md:item...)",
+      "selector": "body.relative.min-h-full > main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col",
+      "fingerprint": {
+        "tag": "div",
+        "text": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها98%أعلى نسب...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...",
+        "role": "",
+        "description": "div \"تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غي...\""
+      },
+      "boundingBox": {
+        "x": 291.1111145019531,
+        "y": 106.86805725097656,
+        "width": 500,
+        "height": 478.7083435058594
+      },
+      "nearbyText": "تواصلكم معنا مرحب بهبعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها98%أعلى نسب نجاح باليمن+30عاماً من الريادة بإشرافناIX3أحدث التقنيات المتقدمةإحجز موعد الآنمكالمة استشارية",
+      "cssClasses": "flex flex-col gap-6 items-center md:items-start w-full",
+      "nearbyElements": "Parent: div.absolute (1 children) | Siblings: ",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: flex, flex-direction: column, gap: 24px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 52,
+    "author": "a",
+    "text": "make it smaller ",
+    "metadata": {
+      "element": "p '(سورة الأنبياء، الآية ٨٩)'",
+      "selector": "p.text-xs.md\\:text-sm.text-zinc-400\\/70",
+      "stableSelector": "p.text-xs.md\\:text-sm.text-zinc-400\\/70",
+      "fingerprint": {
+        "tag": "p",
+        "text": "(سورة الأنبياء، الآية ٨٩)",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "(سورة الأنبياء، الآية ٨٩)",
+        "role": "",
+        "description": "p \"(سورة الأنبياء، الآية ٨٩)\""
+      },
+      "boundingBox": {
+        "x": 1119.3472900390625,
+        "y": 393.5138854980469,
+        "width": 135.55555725097656,
+        "height": 20
+      },
+      "nearbyText": "(سورة الأنبياء، الآية ٨٩)",
+      "cssClasses": "text-xs md:text-sm text-zinc-400/70 font-sans tracking-wide",
+      "nearbyElements": "Parent: div.relative (3 children) | Siblings: h3.text-2xl, div.w-16",
+      "computedStyles": "color: oklab(0.704998 0.00414386 -0.0143967 / 0.7), font-size: 14px, font-weight: 400, font-family: geSS, \"geSS Fallback\", line-height: 20px, text-align: center",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.relative > div.relative > p.text-xs",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 51,
+    "author": "a",
+    "text": "replace with animated motion . maximalist style. same thing applies on other stats too.",
+    "metadata": {
+      "element": "span '98%'",
+      "selector": "div.sticky.top-0 > div.absolute.inset-x-6:nth-of-type(9) > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(1) > div.flex.flex-col:nth-of-type(1) > span.text-accent.text-3xl:nth-of-type(1)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(9) > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(1) > div.flex.flex-col:nth-of-type(1) > span.text-accent.text-3xl:nth-of-type(1)",
+      "fingerprint": {
+        "tag": "span",
+        "text": "98%",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "98%",
+        "role": "",
+        "description": "span \"98%\""
+      },
+      "boundingBox": {
+        "x": 697.8611450195312,
+        "y": 396.5486145019531,
+        "width": 93.25,
+        "height": 48
+      },
+      "nearbyText": "98% | [after:] أعلى نسب نجاح باليمن",
+      "cssClasses": "text-accent text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight drop-shadow-sm",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.text-zinc-300",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 48px, font-weight: 700, font-family: system-ui, -apple-system, sans-serif, line-height: 48px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.grid > div.flex > span.text-accent",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "cinematic-1",
+    "folder": "cinematic-1",
+    "frameCount": 528,
+    "title": "القيادة الطبية",
+    "subtitle": "عقولٌ رائدة",
+    "description": "منظومة طبية متكاملة تقودها كفاءات استثنائية، تجمع بين الخبرة العميقة والابتكار التكنولوجي لضمان أعلى مستويات الرعاية والدقة.",
+    "scrollHeight": "1400vh",
+    "dialogues": [],
+    "staffData": [
+      {
+        "id": "staff-1",
+        "show": 0.05,
+        "hide": 0.35,
+        "name": "د. نجاة الملس",
+        "title": "المدير الطبي",
+        "roleDescription": "إستشارية الحقن المجهري والمساعدة على الحمل, خبرة أكثر من 25 سنة, أول إستشارية يمنية في هذا المجال في الجمهورية اليمنية.",
+        "image": "/staff/medical director dr. najat al-malas 3.png"
+      },
+      {
+        "id": "staff-2",
+        "show": 0.1,
+        "hide": 0.35,
+        "name": "د. خالد علي الجنداري",
+        "title": "مدير المركز",
+        "roleDescription": "خبير في الإدارة الطبية وتطوير استراتيجيات الرعاية المتكاملة والابتكار الصحي.",
+        "image": "/staff/the center's director. dr. Khaled Ali Al-Gendari 3.png"
+      },
+      {
+        "id": "staff-3",
+        "show": 0.35,
+        "hide": 0.65,
+        "name": "د. طبيب قادم 1",
+        "title": "استشاري أ",
+        "roleDescription": "استشاري جراحة عامة ذو خبرة دولية في العمليات الدقيقة المتقدمة.",
+        "image": "/staff/medical director dr. najat al-malas 3.png"
+      },
+      {
+        "id": "staff-4",
+        "show": 0.4,
+        "hide": 0.65,
+        "name": "د. طبيب قادم 2",
+        "title": "استشاري ب",
+        "roleDescription": "طبيب استشاري متخصص في الأمراض الباطنية والرعاية الحرجة.",
+        "image": "/staff/the center's director. dr. Khaled Ali Al-Gendari 3.png"
+      },
+      {
+        "id": "staff-5",
+        "show": 0.65,
+        "hide": 0.95,
+        "name": "د. طبيب قادم 3",
+        "title": "أخصائي أ",
+        "roleDescription": "أخصائي معتمد في طب الأطفال وتطوير برامج صحة الأسرة والطفل.",
+        "image": "/staff/medical director dr. najat al-malas 3.png"
+      },
+      {
+        "id": "staff-6",
+        "show": 0.7,
+        "hide": 0.95,
+        "name": "د. طبيب قادم 4",
+        "title": "أخصائي ب",
+        "roleDescription": "طبيب أخصائي في الرعاية الطارئة والتدخل الطبي السريع.",
+        "image": "/staff/the center's director. dr. Khaled Ali Al-Gendari 3.png"
+      },
+      {
+        "id": "staff-7",
+        "show": 0.95,
+        "hide": 1.0,
+        "name": "د. طبيب قادم 5",
+        "title": "طبيب عام",
+        "roleDescription": "ممارس عام يركز على التشخيص المبكر والطب الوقائي المجتمعي.",
+        "image": "/staff/medical director dr. najat al-malas 3.png"
+      }
+    ]
+  },
+  {
+    "id": "cinematic-2",
+    "folder": "cinematic-2",
+    "frameCount": 242,
+    "title": "Section 2",
+    "subtitle": "Video 2",
+    "dialogues": [
+      {
+        "id": "c2-d1",
+        "show": 0.3,
+        "hide": 0.7,
+        "quote": "Armor at 400% capacity. How about that?",
+        "speaker": "TONY STARK",
+        "film": "FLIGHT LOG"
+      }
+    ]
+  },
+  {
+    "id": "cinematic-3",
+    "folder": "cinematic-3",
+    "frameCount": 264,
+    "title": "Section 3",
+    "subtitle": "Video 3",
+    "dialogues": [
+      {
+        "id": "c3-d1",
+        "show": 0.15,
+        "hide": 0.4,
+        "quote": "Sir, I must advise against this maneuver.",
+        "speaker": "J.A.R.V.I.S.",
+        "film": "WARNING"
+      },
+      {
+        "id": "c3-d2",
+        "show": 0.55,
+        "hide": 0.85,
+        "quote": "Jarvis, drop my needle.",
+        "speaker": "TONY STARK",
+        "film": "AUDIO PROTOCOL"
+      }
+    ]
+  },
+  {
+    "id": "cinematic-4",
+    "folder": "cinematic-4",
+    "frameCount": 456,
+    "title": "Section 4",
+    "subtitle": "Video 4",
+    "dialogues": [
+      {
+        "id": "c4-d1",
+        "show": 0.25,
+        "hide": 0.75,
+        "quote": "We have a Hulk.",
+        "speaker": "TONY STARK",
+        "film": "THREAT RESPONSE"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-06-09T20:15:08.843983+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    {
+      "timestamp": "2026-06-13T16:20:32.637073+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}

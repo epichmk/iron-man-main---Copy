@@ -1,0 +1,207 @@
+[
+  {
+    "id": 64,
+    "author": "a",
+    "text": "animate all cards 3d immersive. enter and exit animation. forwards and backwards animation.",
+    "metadata": {
+      "element": "Div (relative z-10 flex flex-col justify-end ...)",
+      "selector": "main > section.scroll-animation.relative:nth-of-type(1) > div.sticky.top-0 > div.absolute.inset-x-4:nth-of-type(14) > figure.relative.w-full > div.relative.z-10:nth-of-type(2)",
+      "stableSelector": "section > div.sticky.top-0 > div.absolute:nth-of-type(14) > figure.relative.w-full > div.h-full:nth-of-type(2)",
+      "fingerprint": {
+        "tag": "div",
+        "text": "رؤية ابتسامة الوالدينعند احتضان طفلهما الأول هي الدافع الذي يجعلنا نستمر في العط...",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "رؤية ابتسامة الوالدينعند احتضان طفلهما الأول هي الدافع الذي ...",
+        "role": "",
+        "description": "div \"رؤية ابتسامة الوالدينعند احتضان طفلهما الأول هي الدافع الذي ...\""
+      },
+      "boundingBox": {
+        "x": 1308,
+        "y": 345.66668701171875,
+        "width": 597.3333740234375,
+        "height": 347.3333435058594
+      },
+      "nearbyText": "رؤية ابتسامة الوالدينعند احتضان طفلهما الأول هي الدافع الذي يجعلنا نستمر في العطاء.",
+      "cssClasses": "relative z-10 flex flex-col justify-end h-full p-6 md:p-8 text-center md:text-right",
+      "nearbyElements": "Parent: figure.relative (3 children) | Siblings: div.absolute, div.absolute",
+      "computedStyles": "color: rgb(244, 244, 245), font-size: 16px, display: flex, flex-direction: column, padding: 32px",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > figure.relative > div.relative",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 63,
+    "author": "a",
+    "text": "animate",
+    "metadata": {
+      "element": "Heading 2 'بعض الأحلام... لا يمكن لنا ان نعيش من غي...'",
+      "selector": "h2.opacity-0.translate-y-8.font-sans",
+      "stableSelector": "h2.opacity-0.translate-y-8.font-sans",
+      "fingerprint": {
+        "tag": "h2",
+        "text": "بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها",
+        "role": "",
+        "description": "h2 \"بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها\""
+      },
+      "boundingBox": {
+        "x": 291.1111145019531,
+        "y": 120.86805725097656,
+        "width": 500,
+        "height": 172.7916717529297
+      },
+      "nearbyText": "[before:] تواصلكم معنا مرحب به | بعض الأحلام... لا يمكن لنا ان نعيش من غير تحقيقها | [after:] مركز طبي متكامل بأعلى معايير الجودة لتقديم أحدث حلول المساعد...",
+      "cssClasses": "opacity-0 translate-y-8 font-sans font-semibold tracking-tighter text-white text-xl md:text-[clamp(1.75rem,2.5vw,3rem)] lg:text-5xl drop-shadow-md",
+      "nearbyElements": "Parent: div.flex (5 children) | Siblings: span.opacity-0, p.opacity-0, div.opacity-0",
+      "computedStyles": "color: rgb(255, 255, 255), font-size: 48px, font-weight: 600, font-family: geSS, \"geSS Fallback\", line-height: 57.6px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > h2.opacity-0",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 62,
+    "author": "a",
+    "text": "animate\n",
+    "metadata": {
+      "element": "span 'IX3'",
+      "selector": "span.stat-3.text-accent.text-2xl",
+      "stableSelector": "span.stat-3.text-accent.text-2xl",
+      "fingerprint": {
+        "tag": "span",
+        "text": "IX3",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "IX3",
+        "role": "",
+        "description": "span \"IX3\""
+      },
+      "boundingBox": {
+        "x": 370.02777099609375,
+        "y": 494.5486145019531,
+        "width": 77.08333587646484,
+        "height": 48
+      },
+      "nearbyText": "IX3 | [after:] أحدث التقنيات المتقدمة",
+      "cssClasses": "stat-3 text-accent text-2xl md:text-4xl lg:text-5xl font-bold tracking-tight drop-shadow-sm transition-all",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.text-zinc-300",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 48px, font-weight: 700, font-family: geSS, \"geSS Fallback\", system-ui, sans-serif, line-height: 48px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > div.flex > span.stat-3",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 61,
+    "author": "a",
+    "text": "animate\n",
+    "metadata": {
+      "element": "span '+30'",
+      "selector": "span.stat-2.text-accent.text-2xl",
+      "stableSelector": "span.stat-2.text-accent.text-2xl",
+      "fingerprint": {
+        "tag": "span",
+        "text": "+30",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "+30",
+        "role": "",
+        "description": "span \"+30\""
+      },
+      "boundingBox": {
+        "x": 543.2083129882812,
+        "y": 494.5486145019531,
+        "width": 75.90277862548828,
+        "height": 48
+      },
+      "nearbyText": "+30 | [after:] عاماً من الريادة بإشرافنا",
+      "cssClasses": "stat-2 text-accent text-2xl md:text-4xl lg:text-5xl font-bold tracking-tight drop-shadow-sm transition-all",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.text-zinc-300",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 48px, font-weight: 700, font-family: geSS, \"geSS Fallback\", system-ui, sans-serif, line-height: 48px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > div.flex > span.stat-2",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  },
+  {
+    "id": 60,
+    "author": "a",
+    "text": "animate ",
+    "metadata": {
+      "element": "span '98%'",
+      "selector": "span.stat-1.text-accent.text-2xl",
+      "stableSelector": "span.stat-1.text-accent.text-2xl",
+      "fingerprint": {
+        "tag": "span",
+        "text": "98%",
+        "role": "",
+        "ariaLabel": "",
+        "name": "",
+        "anchor": ""
+      },
+      "sourceContext": {
+        "component": "",
+        "componentPath": [],
+        "widgetType": "",
+        "columnHeader": "",
+        "fieldLabel": "",
+        "textContent": "98%",
+        "role": "",
+        "description": "span \"98%\""
+      },
+      "boundingBox": {
+        "x": 691.5972290039062,
+        "y": 494.5486145019531,
+        "width": 99.5138931274414,
+        "height": 48
+      },
+      "nearbyText": "98% | [after:] أعلى نسب نجاح باليمن",
+      "cssClasses": "stat-1 text-accent text-2xl md:text-4xl lg:text-5xl font-bold tracking-tight drop-shadow-sm transition-all",
+      "nearbyElements": "Parent: div.flex (2 children) | Siblings: span.text-zinc-300",
+      "computedStyles": "color: rgb(212, 230, 22), font-size: 48px, font-weight: 700, font-family: geSS, \"geSS Fallback\", system-ui, sans-serif, line-height: 48px, text-align: right",
+      "fullPath": "body.relative > main > section.scroll-animation > div.sticky > div.absolute > div.flex > div.opacity-0 > div.flex > span.stat-1",
+      "accessibility": "none",
+      "url": "http://localhost:3000/"
+    }
+  }
+]
