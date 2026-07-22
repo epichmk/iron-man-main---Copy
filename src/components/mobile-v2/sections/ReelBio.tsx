@@ -48,11 +48,11 @@ export function ReelBio() {
       <div className="absolute inset-0 w-full h-full z-0 bg-[var(--page-bg)]">
         <video
           ref={videoRef}
-          src="/dr-najat.original.mp4" poster="/dr-najat-poster.jpg"
+          src="/dr-najat.original.mp4" 
+          poster="/dr-najat-early-days.jpg"
           loop
           muted
           playsInline
-          poster="/dr-najat-early-days.jpg"
           className="absolute inset-0 w-full h-full object-cover"
         />
       </div>
