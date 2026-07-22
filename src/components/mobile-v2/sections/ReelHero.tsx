@@ -34,11 +34,11 @@ export function ReelHero() {
       <div className="absolute inset-0 w-full h-full z-0 bg-[var(--page-bg)]">
         <video
           ref={videoRef}
-          src="/cinematic-banner.original.mp4" poster="/cinematic-banner-poster.jpg"
+          src="/cinematic-banner.original.mp4" 
+          poster="/0001.jpg"
           loop
           muted
           playsInline
-          poster="/0001.jpg"
           className="absolute inset-0 w-full h-full object-cover"
         />
       </div>

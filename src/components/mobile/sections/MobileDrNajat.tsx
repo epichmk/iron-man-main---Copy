@@ -30,12 +30,12 @@ export function MobileDrNajat({ isActive }: { isActive?: boolean }) {
       {/* Background Video with Fallback */}
       <div className="absolute inset-0 w-full h-full z-0 bg-[var(--page-bg)]">
         <video
-          src="/dr-najat.original.mp4" poster="/dr-najat-poster.jpg"
+          src="/dr-najat.original.mp4" 
+          poster="/dr-najat-early-days.jpg"
           autoPlay
           loop
           muted
           playsInline
-          poster="/dr-najat-early-days.jpg"
           className="absolute inset-0 w-full h-full object-cover"
         />
       </div>
