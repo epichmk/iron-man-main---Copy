@@ -205,12 +205,54 @@ export function DesktopHomepage() {
     window.addEventListener("scrollToTop", handleScrollToTop);
     window.addEventListener("scrollToBottom", handleScrollToBottom);
 
+    // --- KEYBOARD & MOUSE BUTTON NAVIGATION ---
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (isAnimating.current) return;
+      switch (e.key) {
+        case "ArrowDown":
+        case "PageDown":
+        case " ":
+          e.preventDefault();
+          handleNext();
+          break;
+        case "ArrowUp":
+        case "PageUp":
+          e.preventDefault();
+          handlePrev();
+          break;
+        case "Home":
+          e.preventDefault();
+          handleScrollToTop();
+          break;
+        case "End":
+          e.preventDefault();
+          handleScrollToBottom();
+          break;
+      }
+    };
+
+    const handleMouseUp = (e: MouseEvent) => {
+      if (isAnimating.current) return;
+      if (e.button === 3) {
+        e.preventDefault();
+        handlePrev();
+      } else if (e.button === 4) {
+        e.preventDefault();
+        handleNext();
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown, { passive: false });
+    window.addEventListener("mouseup", handleMouseUp);
+
     return () => {
       window.removeEventListener("nextSection", handleNext);
       window.removeEventListener("scrollUp", handlePrev);
       window.removeEventListener("scrollDown", handleNext);
       window.removeEventListener("scrollToTop", handleScrollToTop);
       window.removeEventListener("scrollToBottom", handleScrollToBottom);
+      window.removeEventListener("keydown", handleKeyDown);
+      window.removeEventListener("mouseup", handleMouseUp);
       observer.kill();
     };
   }, { scope: containerRef });

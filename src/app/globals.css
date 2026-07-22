@@ -55,6 +55,29 @@
   --accent-glow-strong: rgba(212, 230, 22, 0.6);
 }
 
+/* --- ANTI-THEFT --- */
+/* Prevent copying or selecting text globally */
+* {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Prevent 'Save As' on media by disabling interaction */
+img, video {
+  pointer-events: none;
+}
+
+/* Allow input fields to be selectable so forms still work */
+input, textarea {
+  -webkit-user-select: auto;
+  -moz-user-select: auto;
+  -ms-user-select: auto;
+  user-select: auto;
+}
+
 html.light {
   --background: #ffffff;
     --brand-chartreuse: #0094FE;

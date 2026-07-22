@@ -1,4 +1,4 @@
-﻿import type { Metadata, Viewport } from "next";
+import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { SmoothScrollProvider } from "@/components/providers/SmoothScrollProvider";
@@ -74,6 +74,8 @@ export const viewport: Viewport = {
   maximumScale: 5,
 };
 
+import { SecurityWrapper } from "@/components/providers/SecurityWrapper";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -131,15 +133,17 @@ export default function RootLayout({
         </div>
 
         <div className="relative z-10">
-          <ThemeProvider>
-            <SmoothScrollProvider>
-              {children}
-            </SmoothScrollProvider>
-            <Navbar />
-            <UiTicket />
-            <WhatsAppFloat />
-            <ScrollToTop />
-          </ThemeProvider>
+          <SecurityWrapper>
+            <ThemeProvider>
+              <SmoothScrollProvider>
+                {children}
+              </SmoothScrollProvider>
+              <Navbar />
+              <UiTicket />
+              <WhatsAppFloat />
+              <ScrollToTop />
+            </ThemeProvider>
+          </SecurityWrapper>
         </div>
       </body>
     </html>

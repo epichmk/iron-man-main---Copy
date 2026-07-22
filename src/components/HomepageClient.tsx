@@ -23,7 +23,7 @@ export function HomepageClient() {
 
   return (
     <div className="w-full">
-      {isMobile ? <MobileHomepage /> : <DesktopHomepage />}
+      <DesktopHomepage />
     </div>
   );
 }
