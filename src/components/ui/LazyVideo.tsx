@@ -29,6 +29,22 @@ export const LazyVideo = forwardRef<HTMLVideoElement, LazyVideoProps>(
       if (isInView && !hasLoaded) {
         setHasLoaded(true);
       }
+
+      // ULTIMATE BACKGROUND PRELOADER
+      // If the user sits on the website for minutes, use that idle time to slowly 
+      // download every video in sequence so they never buffer.
+      if (!hasLoaded) {
+        const wrapper = localRef.current?.closest(".section-wrapper");
+        const indexStr = wrapper?.getAttribute("data-index");
+        const myIndex = indexStr ? parseInt(indexStr, 10) : 0;
+        
+        // Stagger the loads: 5 seconds per section index
+        const timer = setTimeout(() => {
+          setHasLoaded(true);
+        }, myIndex * 5000 + 5000); 
+
+        return () => clearTimeout(timer);
+      }
     }, [isInView, hasLoaded]);
 
     // Preemptive loading & iOS Memory Management via GSAP section events
@@ -48,13 +64,11 @@ export const LazyVideo = forwardRef<HTMLVideoElement, LazyVideoProps>(
         const { index } = (e as CustomEvent).detail;
         const distance = Math.abs(index - myIndex);
         
-        if (distance <= 1) {
-          // Preload adjacent and active sections
+        if (distance <= 2) {
+          // Preload active and the next TWO adjacent sections
           setHasLoaded(true);
-        } else {
-          // Aggressively drop from memory if far away to prevent iOS Safari crash
-          setHasLoaded(false);
         }
+        // Removed the memory-drop (setHasLoaded(false)) so the network buffer is never lost!
         
         // Handle playback
         if (distance !== 0) {
