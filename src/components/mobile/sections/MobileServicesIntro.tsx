@@ -7,7 +7,7 @@ export function MobileServicesIntro() {
     <section className="relative w-full h-screen snap-start overflow-hidden bg-[var(--page-bg)] flex flex-col items-center justify-center" dir="rtl">
       {/* Background Video */}
       <LazyVideo
-        src="/services-section-2.mp4"
+        src="/services-section-2.original.mp4" poster="/services-section-2-poster.jpg"
         autoPlay
         loop
         muted

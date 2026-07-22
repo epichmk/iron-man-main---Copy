@@ -7,7 +7,7 @@ export function MobileServicesOutro() {
     <section className="relative w-full h-[60dvh] snap-start flex flex-col items-center justify-center px-6 text-center border-t border-[var(--border-subtle)] bg-[var(--page-bg)] overflow-hidden">
       {/* Background Video */}
       <LazyVideo
-        src="/cinematic-4.mp4"
+        src="/cinematic-4.original.mp4" poster="/cinematic-4-poster.jpg"
         autoPlay
         loop
         muted

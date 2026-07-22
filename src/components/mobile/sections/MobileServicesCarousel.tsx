@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React, { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -39,7 +39,7 @@ export function MobileServicesCarousel() {
       {/* Background Video */}
       <div className="absolute inset-0 w-full h-full z-0 opacity-40 mix-blend-screen">
         <video
-          src="/services-section.mp4"
+          src="/services-section.original.mp4" poster="/services-section-poster.jpg"
           autoPlay
           loop
           muted

@@ -110,15 +110,16 @@ export function Footer() {
             <motion.div style={{ y: yBg, scale: scaleBg }} className="absolute inset-0 w-full h-full">
               <LazyVideo
                 ref={videoRef}
-                src="/footer-baby.mp4"
-                className="absolute inset-0 w-full h-full object-cover opacity-60 dark:opacity-40"
+                src="/footer-baby.original.mp4"
+                poster="/footer-baby-poster.jpg"
+                className="absolute inset-0 w-full h-full object-cover opacity-60 dark:opacity-[0.85]"
                 autoPlay
                 loop
                 muted
                 playsInline
               />
               {/* Fade layer to blend the video smoothly with the page in light/dark mode */}
-              <div className="absolute inset-0 bg-gradient-to-b from-[var(--page-bg)] via-[var(--page-bg)]/50 to-[var(--page-bg)] pointer-events-none" />
+              <div className="absolute inset-0 bg-gradient-to-b from-[var(--page-bg)] via-[var(--page-bg)]/50 dark:via-transparent to-[var(--page-bg)] pointer-events-none" />
               {/* Cinematic Fade-to-Black Overlay synced to video time */}
               <div ref={fadeOverlayRef} className="absolute inset-0 w-full h-full bg-[var(--page-bg)] pointer-events-none" style={{ opacity: 0 }} />
             </motion.div>

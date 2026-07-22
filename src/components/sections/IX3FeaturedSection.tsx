@@ -190,7 +190,7 @@ export function IX3FeaturedSection() {
         
         {/* Background Video */}
         <LazyVideo
-          src="/services-section.mp4"
+          src="/services-section.original.mp4" poster="/services-section-poster.jpg"
           autoPlay
           loop
           muted

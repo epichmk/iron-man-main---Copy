@@ -34,7 +34,7 @@ export function MobileBlog() {
     <section className="relative w-full h-screen snap-start overflow-hidden bg-[var(--page-bg)]" dir="rtl">
       {/* Background Video */}
       <LazyVideo
-        src="/cinematic-blog-scrub.mp4"
+        src="/cinematic-blog-scrub.mp4" poster="/cinematic-blog-scrub-poster.jpg"
         autoPlay
         loop
         muted

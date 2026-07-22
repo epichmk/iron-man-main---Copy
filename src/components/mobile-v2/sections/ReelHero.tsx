@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 import React, { useState, useEffect, useRef } from "react";
 
 export function ReelHero() {
@@ -34,7 +34,7 @@ export function ReelHero() {
       <div className="absolute inset-0 w-full h-full z-0 bg-[var(--page-bg)]">
         <video
           ref={videoRef}
-          src="/cinematic-banner.mp4"
+          src="/cinematic-banner.original.mp4" poster="/cinematic-banner-poster.jpg"
           loop
           muted
           playsInline

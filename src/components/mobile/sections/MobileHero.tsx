@@ -19,7 +19,7 @@ export function MobileHero({ isActive }: { isActive?: boolean }) {
       {/* Background Video with Fallback */}
       <div className="absolute inset-0 w-full h-full z-0 bg-[var(--page-bg)] bg-[url('/0001.jpg')] bg-cover bg-center">
         <video
-          src="/cinematic-banner.mp4"
+          src="/cinematic-banner.original.mp4" poster="/cinematic-banner-poster.jpg"
           autoPlay
           loop
           muted

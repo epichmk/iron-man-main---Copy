@@ -42,7 +42,7 @@ export function MobileStaffShowcase() {
       {/* Background Video */}
       <div className="absolute inset-0 w-full h-full z-0 opacity-30 mix-blend-screen">
         <video
-          src="/staff-section-video.mp4"
+          src="/staff-section-video.original.mp4" poster="/staff-section-video-poster.jpg"
           autoPlay
           loop
           muted

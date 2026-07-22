@@ -129,7 +129,7 @@ export function HeroCinematic() {
     <section ref={containerRef} className="relative w-full bg-[var(--page-bg)] h-[100dvh]">
       <div className="relative top-0 w-full h-[100dvh] overflow-hidden" dir="rtl">
         <LazyVideo
-          src="/cinematic-banner.mp4"
+          src="/cinematic-banner.original.mp4" poster="/cinematic-banner-poster.jpg"
           autoPlay
           loop
           muted

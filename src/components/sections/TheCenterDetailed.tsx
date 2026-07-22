@@ -395,7 +395,7 @@ export function TheCenterDetailed() {
       >
         {/* Video Background with Parallax Scale */}
         <motion.div style={{ scale: heroVideoScale, opacity: heroOpacity }} className="absolute inset-0 z-0">
-          <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover opacity-40" src="/cinematic-banner.mp4" />
+          <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover opacity-40" src="/cinematic-banner.original.mp4" poster="/cinematic-banner-poster.jpg" />
           <div className="absolute inset-0 bg-gradient-to-b from-[var(--page-bg)]/50 via-[var(--page-bg)]/20 to-[var(--page-bg)]" />
         </motion.div>
 

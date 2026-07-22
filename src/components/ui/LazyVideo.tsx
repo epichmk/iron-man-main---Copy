@@ -88,7 +88,7 @@ export const LazyVideo = forwardRef<HTMLVideoElement, LazyVideoProps>(
         ref={localRef}
         src={hasLoaded ? src : undefined}
         className={className}
-        preload="none"
+        preload="metadata"
         disablePictureInPicture
         playsInline
         webkit-playsinline="true"

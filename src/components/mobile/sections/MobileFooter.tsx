@@ -12,7 +12,7 @@ export function MobileFooter() {
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
         <LazyVideo
-          src="/footer-baby.mp4"
+          src="/footer-baby.original.mp4" poster="/footer-baby-poster.jpg"
           className="absolute inset-0 w-full h-full object-cover opacity-60"
           autoPlay
           loop

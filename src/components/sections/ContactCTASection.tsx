@@ -19,17 +19,7 @@ export function ContactCTASection() {
 
 
   useGSAP(() => {
-    // Looping background animation
-    gsap.to(".s10-bg-img", {
-      scale: 1.15,
-      xPercent: -2,
-      yPercent: -1,
-      duration: 12,
-      ease: "power1.inOut",
-      yoyo: true,
-      repeat: -1,
-      force3D: true
-    });
+    // Removed looping background animation from here to put it inside playEntrance()
 
     // Reset initial states
     gsap.set(".s10-anim-el", { opacity: 0, x: -100, scale: 0.8 });
@@ -41,6 +31,12 @@ export function ContactCTASection() {
     const playEntrance = () => {
       const tl = gsap.timeline();
       
+      // Start looping background animation ONLY when section is visible
+      gsap.to(".s10-bg-img", {
+        scale: 1.15, xPercent: -2, yPercent: -1, duration: 12,
+        ease: "power1.inOut", yoyo: true, repeat: -1, force3D: true, overwrite: "auto"
+      });
+
       tl.to(".s10-small-badge", { opacity: 1, x: 0, duration: 1, ease: "power3.out" }, 0.2);
       tl.to(".s10-line", { width: 32, duration: 0.8, ease: "power2.inOut" }, 0.4);
       
@@ -58,6 +54,8 @@ export function ContactCTASection() {
     };
 
     const resetState = () => {
+      gsap.killTweensOf(".s10-bg-img"); // Stop heavy background calculation
+      gsap.set(".s10-bg-img", { scale: 1, xPercent: 0, yPercent: 0 }); // Reset position
       gsap.set(".s10-anim-el", { opacity: 0, x: -100, scale: 0.8 });
       gsap.set(".s10-anim-text", { opacity: 0, y: 100, scale: 0.8 });
       gsap.set(".s10-line", { width: 0 });
