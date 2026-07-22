@@ -69,7 +69,7 @@ export function ContactCTASection() {
     const handleIndex = (e: Event) => {
       isFullPage = true;
       const customEvent = e as CustomEvent;
-      const mySection = sectionRef.current?.closest('main > div');
+      const mySection = sectionRef.current?.closest('.section-wrapper');
       if (mySection && mySection.parentElement) {
         const myIndex = Array.from(mySection.parentElement.children).indexOf(mySection);
         if (customEvent.detail.index === myIndex) {
@@ -82,22 +82,8 @@ export function ContactCTASection() {
 
     window.addEventListener("sectionIndexChanged", handleIndex);
 
-    const observer = new IntersectionObserver((entries) => {
-      if (isFullPage) return;
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          playEntrance();
-        } else {
-          setTimeout(() => { resetState(); }, 1000);
-        }
-      });
-    }, { threshold: 0.1 });
-    
-    if (sectionRef.current) observer.observe(sectionRef.current);
-
     return () => {
       window.removeEventListener("sectionIndexChanged", handleIndex);
-      observer.disconnect();
     };
   }, { scope: sectionRef });
 

@@ -113,6 +113,9 @@ export function DesktopHomepage() {
           // We removed the automatic scrollLeft reset to allow carousel persistence
         }
       });
+      
+      // Fallback: If GSAP fails to complete for any reason, release the animation lock after 1.5s
+      setTimeout(() => { isAnimating.current = false; }, 1500);
 
       // Cinematic out-animation: current section pushes back (no scale to prevent jitter) and fades out
       tl.to(currentSection, {
@@ -222,7 +225,8 @@ export function DesktopHomepage() {
         <div 
           key={child.key} 
           ref={(el) => { sectionsRef.current[i] = el; }}
-          className="absolute inset-0 w-full h-[100dvh] overflow-hidden will-change-transform bg-[var(--page-bg)]"
+          className="section-wrapper absolute inset-0 w-full h-[100dvh] overflow-hidden will-change-transform bg-[var(--page-bg)]"
+          data-index={i}
         >
           {child}
         </div>
