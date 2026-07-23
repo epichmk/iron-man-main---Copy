@@ -20,8 +20,8 @@ export const BEATS: Beat[] = [
     hide: 0.3,
     label: "01 — Ignition",
     quote: "Yeah, I can fly.",
-    speaker: "Tony Stark",
-    film: "IRON MAN — 2008",
+    speaker: "Tony NMC",
+    film: "NMC System — 2008",
   },
   {
     id: "b2",
@@ -29,8 +29,8 @@ export const BEATS: Beat[] = [
     hide: 0.55,
     label: "02 — Sync",
     quote: "The suit and I are one.",
-    speaker: "Tony Stark",
-    film: "IRON MAN 3 — 2013",
+    speaker: "Tony NMC",
+    film: "NMC System 3 — 2013",
   },
   {
     id: "b3",
@@ -38,7 +38,7 @@ export const BEATS: Beat[] = [
     hide: 0.8,
     label: "03 — Aftermath",
     quote: "It's not about how much we lost. It's about how much we have left.",
-    speaker: "Tony Stark",
+    speaker: "Tony NMC",
     film: "AVENGERS: ENDGAME — 2019",
   },
 ];

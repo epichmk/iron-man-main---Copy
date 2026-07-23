@@ -230,7 +230,7 @@ export function ServiceCard({ id, title, image, description, featured, index = 0
 
             </div>
             
-            {/* Unique Iron Man HUD Action Buttons */}
+            {/* Unique NMC System HUD Action Buttons */}
             <div className="flex flex-col gap-2 mt-4 pt-4 border-t border-[var(--border-subtle)] shrink-0 w-full max-w-[240px] self-center">
                 <div onClick={(e) => { e.stopPropagation(); window.location.href = `/services/${id}`; }} className="w-full cursor-pointer">
                   <div

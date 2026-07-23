@@ -3,7 +3,7 @@
 import { motion, useScroll, useTransform, useSpring, useInView } from "framer-motion";
 import { useRef, useEffect, useState } from "react";
 
-// A single JARVIS-style glowing dial
+// A single NMC AI-style glowing dial
 function StatDial({ 
   value, 
   label, 

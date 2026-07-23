@@ -633,7 +633,7 @@ export function Hero() {
 
         {!loaded && (
           <div className="absolute inset-0 z-30 flex flex-col items-center justify-center gap-5 bg-background px-6">
-            <EyebrowBadge>SUIT UP PROTOCOL // BOOTING</EyebrowBadge>
+            <EyebrowBadge>DIAGNOSTIC PROTOCOL // BOOTING</EyebrowBadge>
             <div className="h-px w-60 bg-[var(--surface-hover)] md:w-80">
               <div
                 className="h-full bg-accent transition-[width] duration-150 ease-out"
@@ -641,7 +641,7 @@ export function Hero() {
               />
             </div>
             <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-[var(--text-muted-light)]">
-              Loading Mark LXXXV &nbsp;&middot;&nbsp; {Math.round(loadProgress * 100)}%
+              Loading Version 85.0 &nbsp;&middot;&nbsp; {Math.round(loadProgress * 100)}%
             </p>
           </div>
         )}

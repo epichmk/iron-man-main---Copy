@@ -98,7 +98,7 @@ export function BabyLogo({ className = "" }: { className?: string }) {
         <div className="relative z-10 h-full w-full drop-shadow-2xl">
           <Image
             src="/baby.png"
-            alt="Stark Industries Baby Logo"
+            alt="NMC Industries Baby Logo"
             fill
             className="object-contain"
             priority

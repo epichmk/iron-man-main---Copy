@@ -219,15 +219,15 @@ export function Hero() {
           className="absolute inset-x-0 bottom-0 z-10 flex flex-col items-start gap-5 px-6 pb-24 md:px-12 md:pb-28"
           style={{ transition: "opacity 80ms linear" }}
         >
-          <EyebrowBadge>MARK LXXXV // STARK INDUSTRIES // ONLINE</EyebrowBadge>
+          <EyebrowBadge>Version 85.0 // NMC INDUSTRIES // ONLINE</EyebrowBadge>
           <h1 className="max-w-[14ch] font-sans text-5xl font-semibold leading-[0.95] tracking-tighter text-foreground md:text-7xl lg:text-8xl">
             I am
             <br />
-            <span className="text-accent">Iron Man.</span>
+            <span className="text-accent">Medical Diagnostics.</span>
           </h1>
           <p className="max-w-[42ch] font-sans text-sm leading-relaxed text-[var(--text-tertiary)] md:text-base">
-            Mark LXXXV nanotech suit. Arc reactor calibrated. Scroll to run a full
-            system diagnostic — J.A.R.V.I.S. is holding on the line.
+            Version 85.0 nanotech suit. Core system calibrated. Scroll to run a full
+            system diagnostic — NMC AI. is holding on the line.
           </p>
         </div>
 
@@ -238,7 +238,7 @@ export function Hero() {
         >
           <span className="inline-flex items-center gap-2.5 font-mono text-[10px] uppercase tracking-[0.3em] text-accent">
             <span aria-hidden className="inline-block h-1.5 w-1.5 rounded-full bg-accent shadow-[0_0_10px_rgba(212,162,47,0.85)]" />
-            Protocol &mdash; Mk LXXXV
+            Protocol &mdash; Version 85.0
           </span>
           <h2 className="font-sans font-semibold leading-[0.88] tracking-tighter text-foreground text-[clamp(4rem,9.5vw,9rem)]">
             Build
@@ -246,7 +246,7 @@ export function Hero() {
             with <span className="text-accent">Devini</span>
           </h2>
           <p className="max-w-[36ch] font-mono text-[11px] uppercase tracking-[0.22em] text-[var(--text-tertiary)]">
-            Interfaces &amp; products, engineered like the Mark LXXXV.
+            Interfaces &amp; products, engineered like the Version 85.0.
           </p>
         </div>
 
@@ -259,7 +259,7 @@ export function Hero() {
 
         <div className="pointer-events-none absolute right-6 top-20 z-10 flex items-center gap-3 md:right-10 md:top-24">
           <span className="font-mono text-[10px] uppercase tracking-[0.32em] text-[var(--text-tertiary)]">
-            Arc Reactor
+            Core system
           </span>
           <span
             ref={powerReadoutRef}
@@ -280,7 +280,7 @@ export function Hero() {
           </div>
           <div className="mx-6 flex items-center justify-between pb-4 font-mono text-[10px] uppercase tracking-[0.28em] text-[var(--text-muted-light)] md:mx-10">
             <span>SEQ 001 / 169</span>
-            <span>J.A.R.V.I.S. // DIAGNOSTIC</span>
+            <span>NMC AI. // DIAGNOSTIC</span>
             <span>Scroll &darr;</span>
           </div>
         </div>
@@ -347,7 +347,7 @@ export function Hero() {
 
         {!loaded && (
           <div className="absolute inset-0 z-30 flex flex-col items-center justify-center gap-5 bg-background px-6">
-            <EyebrowBadge>SUIT UP PROTOCOL // BOOTING</EyebrowBadge>
+            <EyebrowBadge>DIAGNOSTIC PROTOCOL // BOOTING</EyebrowBadge>
             <div className="h-px w-60 bg-[var(--surface-hover)] md:w-80">
               <div
                 className="h-full bg-accent transition-[width] duration-150 ease-out"
@@ -355,7 +355,7 @@ export function Hero() {
               />
             </div>
             <p className="font-mono text-[11px] uppercase tracking-[0.28em] text-[var(--text-muted-light)]">
-              Loading Mark LXXXV &nbsp;&middot;&nbsp; {Math.round(loadProgress * 100)}%
+              Loading Version 85.0 &nbsp;&middot;&nbsp; {Math.round(loadProgress * 100)}%
             </p>
           </div>
         )}

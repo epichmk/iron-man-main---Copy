@@ -106,7 +106,7 @@ export function Baby3DSection() {
         <div className="pointer-events-none absolute inset-x-0 bottom-0 z-10">
           <div className="mx-6 flex items-center justify-between pb-4 font-mono text-[10px] uppercase tracking-[0.28em] text-[var(--text-muted-light)] md:mx-10">
             <span>3D MESH // ACTIVE</span>
-            <span>J.A.R.V.I.S. // RENDERING</span>
+            <span>NMC AI. // RENDERING</span>
             <span>Scroll &darr;</span>
           </div>
         </div>

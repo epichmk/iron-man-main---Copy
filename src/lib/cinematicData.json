@@ -85,8 +85,8 @@
         "id": "c2-d1",
         "show": 0.3,
         "hide": 0.7,
-        "quote": "Armor at 400% capacity. How about that?",
-        "speaker": "TONY STARK",
+        "quote": "System at 100% capacity. How about that?",
+        "speaker": "TONY NMC",
         "film": "FLIGHT LOG"
       }
     ]
@@ -103,15 +103,15 @@
         "show": 0.15,
         "hide": 0.4,
         "quote": "Sir, I must advise against this maneuver.",
-        "speaker": "J.A.R.V.I.S.",
+        "speaker": "NMC AI.",
         "film": "WARNING"
       },
       {
         "id": "c3-d2",
         "show": 0.55,
         "hide": 0.85,
-        "quote": "Jarvis, drop my needle.",
-        "speaker": "TONY STARK",
+        "quote": "NMC AI, drop my needle.",
+        "speaker": "TONY NMC",
         "film": "AUDIO PROTOCOL"
       }
     ]
@@ -127,8 +127,8 @@
         "id": "c4-d1",
         "show": 0.25,
         "hide": 0.75,
-        "quote": "We have a Hulk.",
-        "speaker": "TONY STARK",
+        "quote": "Analysis complete.",
+        "speaker": "TONY NMC",
         "film": "THREAT RESPONSE"
       }
     ]

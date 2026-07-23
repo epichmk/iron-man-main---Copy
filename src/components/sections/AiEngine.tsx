@@ -38,7 +38,7 @@ export function AiEngine() {
           >
             <span className="w-2 h-2 rounded-full bg-blue-400 animate-pulse" />
             <span className="font-mono text-xs text-blue-400 tracking-[0.3em] uppercase">
-              J.A.R.V.I.S. Core AI
+              NMC AI. Core AI
             </span>
           </motion.div>
 
@@ -49,7 +49,7 @@ export function AiEngine() {
             transition={{ delay: 0.1 }}
             className="font-heading text-6xl md:text-8xl font-black text-[var(--text-primary)] tracking-tighter mb-8"
           >
-            نظام <span className="text-transparent bg-clip-text bg-gradient-to-l from-blue-400 to-blue-600">J.A.R.V.I.S</span> لتحليل الأجنة
+            نظام <span className="text-transparent bg-clip-text bg-gradient-to-l from-blue-400 to-blue-600">NMC AI</span> لتحليل الأجنة
           </motion.h2>
 
           <motion.p
