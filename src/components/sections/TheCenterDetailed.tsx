@@ -501,7 +501,7 @@ export function TheCenterDetailed() {
               <motion.div variants={fadeUp} className="relative w-full aspect-[3/4] max-h-[520px] rounded-3xl overflow-hidden  group shadow-2xl">
                 <div className="absolute inset-0 bg-blue-900/10 mix-blend-overlay z-10 group-hover:bg-transparent transition-colors duration-700" />
                 <Image src="/staff/medical director dr. najat al-malas 3.png" alt="د. نجاة الملس" fill className="object-cover object-top transition-all duration-700 scale-105 group-hover:scale-100" sizes="(max-width: 1024px) 100vw, 50vw" />
-                <div className="absolute bottom-0 left-0 right-0 h-1/3 bg-gradient-to-t from-black/80 to-transparent z-10" />
+                <div className="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[var(--page-bg)] via-[var(--page-bg)]/80 to-transparent z-10" />
                 <div className="absolute bottom-6 right-6 left-6 z-20">
                   <div className="flex items-center gap-3 mb-2">
                     <div className="w-2 h-2 rounded-full bg-accent animate-pulse" />
@@ -582,7 +582,7 @@ export function TheCenterDetailed() {
       {/* ═══════════════════════════════════════════
           SECTION 3: FACILITY DEEP DIVE
           ═══════════════════════════════════════════ */}
-      <section id="the-center-facility" className="relative z-10 w-full min-h-[100svh] snap-start flex flex-col justify-center overflow-hidden py-20 md:py-28 bg-gradient-to-b from-transparent via-[#000a1a]/50 to-transparent">
+      <section id="the-center-facility" className="relative z-10 w-full min-h-[100svh] snap-start flex flex-col justify-center overflow-hidden py-20 md:py-28">
         <motion.div variants={staggerContainer} initial="hidden" whileInView="show" viewport={{ once: true, margin: "-100px" }} className="w-full max-w-[1400px] mx-auto px-6 md:px-12">
           <Parallax offset={-25}>
             <motion.div variants={fadeUp} className="text-center mb-10 md:mb-14">

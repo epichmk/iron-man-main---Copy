@@ -134,7 +134,7 @@ export function HeroCinematic() {
           loop
           muted
           playsInline
-          className="absolute inset-0 w-full h-full object-cover z-0 opacity-[var(--theme-bg-img-opacity)] hide-in-light"
+          className="absolute inset-0 w-full h-full object-cover z-0 opacity-[var(--theme-bg-img-opacity)]"
         />
 
         {/* Heavy Vignette for Pitch Black Edges */}

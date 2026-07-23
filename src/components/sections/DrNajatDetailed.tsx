@@ -334,7 +334,7 @@ function KidsEditorialGallery() {
                     <div className="relative w-full h-full overflow-hidden bg-[var(--page-bg)] rounded-sm shadow-inner">
                       {item.type === "logo" ? (
                         <div className="w-full h-full flex items-center justify-center">
-                          <Image src={item.src} alt="NMC" width={150} height={150} quality={100} className="opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+                          <Image src={item.src} alt="NMC" width={150} height={150} quality={100} className="opacity-[var(--theme-bg-img-opacity)]" />
                         </div>
                       ) : (
                         <Image src={item.src} alt="قصة نجاح" fill quality={100} sizes="(max-width: 768px) 75vw, 35vw" className="object-cover" />
@@ -429,7 +429,7 @@ export function DrNajatDetailed() {
       <div className="fixed inset-0 z-50 pointer-events-none opacity-[0.03] mix-blend-overlay" style={{ backgroundImage: "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.5' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E\")" }} />
 
       <section ref={heroRef} className="relative w-full h-[100svh] bg-transparent overflow-hidden z-10">
-        <div className="gsap-ambient-1 absolute top-[-20%] left-[-10%] w-[600px] h-[600px] rounded-full bg-accent/5 blur-[120px] pointer-events-none opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+        <div className="gsap-ambient-1 absolute top-[-20%] left-[-10%] w-[600px] h-[600px] rounded-full bg-accent/5 blur-[120px] pointer-events-none opacity-[var(--theme-bg-img-opacity)]" />
         <div className="gsap-ambient-2 absolute bottom-[-10%] right-[-10%] w-[500px] h-[500px] rounded-full bg-[var(--surface-elevated)]/60 blur-[100px] pointer-events-none opacity-20" />
         <div className="gsap-hero-portrait-container absolute right-[-10vw] md:right-[0vw] bottom-0 w-[120vw] md:w-[55vw] h-[95svh] opacity-100 z-10 pointer-events-none will-change-transform">
           <div className="gsap-hero-portrait opacity-0 w-full h-full relative flex items-end justify-center overflow-visible">
@@ -516,7 +516,7 @@ export function DrNajatDetailed() {
         <div className="gsap-office-img absolute inset-0 z-0 scale-[1.05] will-change-transform">
           <Image src="/staff/dr-najat-office-quote.jpg" alt="Dr. Najat in her office" fill quality={100} sizes="100vw" className="object-cover object-[90%_top] md:object-right-top" />
           <div className="absolute inset-x-0 bottom-0 h-[65%] md:h-full md:inset-y-0 md:left-0 md:right-auto md:w-[70%] bg-gradient-to-t md:bg-gradient-to-r from-accent via-accent/80 to-transparent opacity-95 md:opacity-100" />
-          <div className="absolute inset-0 bg-gradient-to-t from-[var(--page-bg)] via-transparent to-[var(--page-bg)] pointer-events-none opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[var(--page-bg)] via-transparent to-[var(--page-bg)] pointer-events-none opacity-[var(--theme-bg-img-opacity)]" />
         </div>
         
         <GsapStaggerReveal yOffset={40} className="gsap-office-text relative z-10 w-full md:w-[60%] lg:w-[50%] flex flex-col gap-6 md:gap-8 will-change-transform">

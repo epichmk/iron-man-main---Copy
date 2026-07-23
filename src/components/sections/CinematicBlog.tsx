@@ -63,7 +63,7 @@ export function CinematicBlog() {
       dir="rtl"
     >
       <div className="absolute inset-0 w-full h-[100dvh] overflow-hidden pointer-events-none z-0">
-        <LazyVideo src="/cinematic-blog-scrub.mp4" poster="/cinematic-blog-scrub-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+        <LazyVideo src="/cinematic-blog-scrub.mp4" poster="/cinematic-blog-scrub-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)]" />
         {/* Unified Cinematic Edge Fades */}
         <div className="absolute inset-0 bg-gradient-to-b from-[var(--page-bg)]/50 via-[var(--page-bg)]/20 to-[var(--page-bg)] pointer-events-none z-10" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_0%,transparent_30%,var(--gradient-radial-edge)_70%,var(--gradient-radial-edge)_100%)] z-[5]" />

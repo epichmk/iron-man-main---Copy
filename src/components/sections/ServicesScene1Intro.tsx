@@ -126,8 +126,8 @@ export function ServicesScene1Intro() {
               
               <div className="s1-image-float absolute inset-0 w-full h-full origin-center">
                 {/* Dark Mode Images */}
-                <Image src="/services/services featured highlight/ix73_square.jpg" alt="Olympus IX73" fill sizes="100vw" quality={100} className="object-cover md:hidden opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
-                <Image src="/ix73_wide_expanded.png" alt="Olympus IX73" fill sizes="100vw" quality={100} className="object-contain object-center hidden md:block opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+                <Image src="/services/services featured highlight/ix73_square.jpg" alt="Olympus IX73" fill sizes="100vw" quality={100} className="object-cover md:hidden opacity-[var(--theme-bg-img-opacity)]" />
+                <Image src="/ix73_wide_expanded.png" alt="Olympus IX73" fill sizes="100vw" quality={100} className="object-contain object-center hidden md:block opacity-[var(--theme-bg-img-opacity)]" />
                 
                 {/* Light Mode Images */}
                 <Image src="/services/lightmode/ix73-icsi-imsi_light.jpg" alt="Olympus IX73" fill sizes="100vw" quality={100} className="object-cover md:hidden opacity-100 hide-in-dark" />

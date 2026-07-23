@@ -603,7 +603,7 @@ export function EditorialServicePage({ serviceId }: { serviceId: string }) {
                         <motion.div animate={{ y: [0, -10, 0] }} transition={{ duration: 6, repeat: Infinity, ease: "easeInOut", delay: i * 0.5 }} className="w-full h-full">
                           {eff.image && (
                             <div className="relative w-full aspect-[21/16] md:aspect-[21/8] overflow-hidden">
-                              <Image src={eff.image} alt={eff.name} fill className="object-cover transition-transform duration-1000 group-hover:scale-105 opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
+                              <Image src={eff.image} alt={eff.name} fill className="object-cover transition-transform duration-1000 group-hover:scale-105 opacity-[var(--theme-bg-img-opacity)]" />
                               <div className="absolute inset-0 bg-gradient-to-t from-transparent via-transparent to-transparent" />
                             </div>
                           )}
