@@ -85,7 +85,7 @@ export function CinematicFeedbackGallery() {
     <section ref={containerRef} className="relative w-full min-h-[100dvh] bg-[var(--page-bg)] overflow-hidden flex flex-col justify-center items-center pt-8 pb-24 md:py-8">
       
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none">
-        <img src="/studio_spotlight_bg.png" alt="Studio Spotlight" className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)]" />
+        <img src="/studio_spotlight_bg.png" alt="Studio Spotlight" className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
         <div className="absolute inset-0 bg-[var(--page-bg)]/70 mix-blend-multiply" />
       </div>
 

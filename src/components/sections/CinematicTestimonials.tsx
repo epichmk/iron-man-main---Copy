@@ -100,7 +100,7 @@ export function CinematicTestimonials() {
     <section ref={containerRef} className="relative w-full h-[100dvh] bg-[var(--page-bg)] overflow-hidden flex flex-col justify-center py-20">
       
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none">
-        <img src="/studio_spotlight_bg.png" alt="Studio Spotlight" className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)]" />
+        <img src="/studio_spotlight_bg.png" alt="Studio Spotlight" className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
       </div>
 
       <div className="absolute inset-0 z-10 bg-[radial-gradient(ellipse_at_center,var(--gradient-radial-edge)_0%,var(--gradient-radial-edge)_70%,var(--gradient-radial-edge)_100%)] pointer-events-none" />

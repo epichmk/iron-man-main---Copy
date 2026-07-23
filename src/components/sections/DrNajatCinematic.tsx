@@ -125,7 +125,7 @@ export function DrNajatCinematic() {
     <section ref={containerRef} className="relative w-full bg-[var(--page-bg)] h-[100dvh] flex items-center justify-center overflow-hidden">
       
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none bg-[var(--page-bg)]">
-        <LazyVideo src="/dr-najat.original.mp4" poster="/dr-najat-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)]" />
+        <LazyVideo src="/dr-najat.original.mp4" poster="/dr-najat-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
       </div>
 
       {/* Unified Cinematic Edge Fades */}

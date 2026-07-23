@@ -166,7 +166,7 @@ export function StaffShowcase({
       dir="rtl"
     >
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none overflow-hidden">
-        <LazyVideo src="/staff-section-video.original.mp4" poster="/staff-section-video-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)]" />
+        <LazyVideo src="/staff-section-video.original.mp4" poster="/staff-section-video-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
         
         {/* Unified Cinematic Edge Fades */}
         <div className="absolute inset-0 bg-gradient-to-b from-[var(--page-bg)]/50 via-[var(--page-bg)]/20 to-[var(--page-bg)] pointer-events-none z-10" />

@@ -143,7 +143,7 @@ export function ServicesScene2Carousel() {
 
   return (
     <section ref={containerRef} className="relative bg-[var(--page-bg)] w-full h-[100dvh] overflow-hidden flex flex-col justify-center">
-      <LazyVideo src="/services-section-2.original.mp4" poster="/services-section-2-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover z-0 opacity-[var(--theme-bg-img-opacity)]" />
+      <LazyVideo src="/services-section-2.original.mp4" poster="/services-section-2-poster.jpg" autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover z-0 opacity-[var(--theme-bg-img-opacity)] hide-in-light" />
       <div 
         ref={carouselRef}
         className="horizontal-carousel-container relative z-10 w-full h-full overflow-x-auto overflow-y-hidden snap-x snap-mandatory flex items-center gap-0 px-0 scrollbar-hide md:cursor-grab active:md:cursor-grabbing" 

@@ -96,7 +96,7 @@ export function ContactCTASection() {
             src="/cta-section-background.jpg" 
             alt="CTA Background" 
             fill 
-            className="s10-bg-img will-change-transform object-cover object-[15%_center] md:object-[20%_20%] opacity-[var(--theme-bg-img-opacity)]"
+            className="s10-bg-img will-change-transform object-cover object-[15%_center] md:object-[20%_20%] opacity-[var(--theme-bg-img-opacity)] hide-in-light"
           />
         </div>
       </div>
